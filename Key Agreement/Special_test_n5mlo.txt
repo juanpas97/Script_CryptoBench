@@ -1,0 +1,2947 @@
+Super Test Results
+-----------------------------------
+CPU Model: i686
+Android Version: 8.0.0
+SDK Version: 26
+Manufacturer: unknown
+Device: generic_x86_64
+Model: Android SDK built for x86_64
+
+
+
+: -87549952 
+Time to set key: -87851108 
+Time to set key: -88050604 
+Time to set key: -88480566 
+Time to set key: -88767886 
+Time to set key: -88930591 
+Time to set key: -89132731 
+Time to set key: -89292586 
+Time to set key: -89476013 
+Time to set key: -89646477 
+Time to set key: -89807752 
+Time to set key: -89984609 
+Time to set key: -90117029 
+Time to set key: -90271715 
+Time to set key: -90410947 
+Time to set key: -90538365 
+Time to set key: -90684055 
+Time to set key: -90818015 
+Time to set key: -90971091 
+Time to set key: -91103863 
+Time to set key: -91259549 
+Time to set key: -91383658 
+Time to set key: -91520420 
+Time to set key: -91666040 
+Time to set key: -91811060 
+Time to set key: -91985010 
+Time to set key: -92170256 
+Time to set key: -92315980 
+Time to set key: -92481827 
+Time to set key: -92612876 
+Time to set key: -92746698 
+Time to set key: -92899487 
+Time to set key: -93070679 
+Time to set key: -93195735 
+Time to set key: -93335606 
+Time to set key: -93512549 
+Time to set key: -93662374 
+Time to set key: -93809855 
+Time to set key: -93945430 
+Time to set key: -94113541 
+Time to set key: -94281658 
+Time to set key: -94435375 
+Time to set key: -94572161 
+Time to set key: -94712853 
+Time to set key: -94854601 
+Time to set key: -94985487 
+Time to set key: -95131504 
+Time to set key: -95274403 
+Time to set key: -95455099 
+Time to set key: -95611522 
+Time to set key: -95744007 
+Time to set key: -95914694 
+Time to set key: -96078841 
+Time to set key: -96244780 
+Time to set key: -96372146 
+Time to set key: -96496672 
+Time to set key: -96616215 
+Time to set key: -96748440 
+Time to set key: -96868971 
+Time to set key: -96984404 
+Time to set key: -97164849 
+Time to set key: -97304623 
+Time to set key: -97451455 
+Time to set key: -97587240 
+Time to set key: -97753354 
+Time to set key: -97889966 
+Time to set key: -98023461 
+Time to set key: -98156728 
+Time to set key: -98325620 
+Time to set key: -98482201 
+Time to set key: -98634746 
+Time to set key: -98767216 
+Time to set key: -98928960 
+Time to set key: -99080615 
+Time to set key: -99219548 
+Time to set key: -99387586 
+Time to set key: -99548524 
+Time to set key: -99711085 
+Time to set key: -99849522 
+Time to set key: -99992753 
+Time to set key: -100133556 
+Time to set key: -100284693 
+Time to set key: -100422153 
+Time to set key: -100553448 
+Time to set key: -100754633 
+Time to set key: -100906595 
+Time to set key: -101034515 
+Time to set key: -101197457 
+Time to set key: -101329273 
+Time to set key: -101514168 
+Time to set key: -101680892 
+Time to set key: -101810428 
+Time to set key: -101976954 
+Time to set key: -102149028 
+Time to set key: -102307720 
+Time to set key: -102468037 
+Time to set key: -102611950 
+Time to set key: -102769160 
+Time to set key: -102925958 
+Time to set key: -103078107 
+Time to set key: -103257874 
+Time to set key: -103430667 
+Time to set key: -103578350 
+Time to set key: -103763196 
+Time to set key: -103970462 
+Time to set key: -104129205 
+Time to set key: -104291627 
+Time to set key: -104445803 
+Time to set key: -104653863 
+Time to set key: -104795058 
+Time to set key: -104968419 
+Time to set key: -105168620 
+Time to set key: -105326633 
+Time to set key: -105494442 
+Time to set key: -105676719 
+Time to set key: -105875222 
+Time to set key: -106073750 
+Time to set key: -106294888 
+Time to set key: -106475910 
+Time to set key: -106609883 
+Time to set key: -106852460 
+Time to set key: -107062450 
+Time to set key: -107246773 
+Time to set key: -107457419 
+Time to set key: -107611999 
+Time to set key: -107864544 
+Time to set key: -108096828 
+Time to set key: -108313410 
+Time to set key: -108532503 
+Time to set key: -108705731 
+Time to set key: -108945030 
+Time to set key: -109109056 
+Time to set key: -109253972 
+Time to set key: -109403754 
+Time to set key: -109563453 
+Time to set key: -109767317 
+Time to set key: -109941519 
+Time to set key: -110118488 
+Time to set key: -110357389 
+Time to set key: -110531715 
+Time to set key: -110732739 
+Time to set key: -110911106 
+Time to set key: -111060335 
+Time to set key: -111211766 
+Time to set key: -111385635 
+Time to set key: -111574814 
+Time to set key: -111727251 
+Time to set key: -111951420 
+Time to set key: -112100335 
+Time to set key: -112284682 
+Time to set key: -112453055 
+Time to set key: -112626885 
+Time to set key: -112802862 
+Time to set key: -113020926 
+Time to set key: -113154439 
+Time to set key: -113294665 
+Time to set key: -113434462 
+Time to set key: -113668068 
+Time to set key: -113833462 
+Time to set key: -113988189 
+Time to set key: -114150315 
+Time to set key: -114317664 
+Time to set key: -114499062 
+Time to set key: -114683300 
+Time to set key: -114842728 
+Time to set key: -115084030 
+Time to set key: -115231399 
+Time to set key: -115400921 
+Time to set key: -115595676 
+Time to set key: -115780160 
+Time to set key: -115968053 
+Time to set key: -116212375 
+Time to set key: -116374098 
+Time to set key: -116557376 
+Time to set key: -116776575 
+Time to set key: -116935007 
+Time to set key: -117145875 
+Time to set key: -117355121 
+Time to set key: -117567428 
+Time to set key: -117713998 
+Time to set key: -117851474 
+Time to set key: -118013874 
+Time to set key: -118157343 
+Time to set key: -118295491 
+Time to set key: -118447992 
+Time to set key: -118648201 
+Time to set key: -118794375 
+Time to set key: -118935746 
+Time to set key: -119073581 
+Time to set key: -119241419 
+Time to set key: -119382025 
+Time to set key: -119551157 
+Time to set key: -119695594 
+Time to set key: -119866776 
+Time to set key: -120002625 
+Time to set key: -120164728 
+Time to set key: -120321318 
+Time to set key: -120502635 
+Time to set key: -120671282 
+Time to set key: -120794193 
+Time to set key: -120926505 
+Time to set key: -121088692 
+Time to set key: -121263297 
+Time to set key: -121420642 
+Time to set key: -121582020 
+Time to set key: -121731815 
+Time to set key: -121896482 
+Time to set key: -122057232 
+Time to set key: -122223317 
+Time to set key: -122370933 
+Time to set key: -122535233 
+Time to set key: -122671014 
+Time to set key: -122794457 
+Time to set key: -122924477 
+Time to set key: -123083141 
+Time to set key: -123235336 
+Time to set key: -123382186 
+Time to set key: -123567564 
+Time to set key: -123691356 
+Time to set key: -123838670 
+Time to set key: -124007606 
+Time to set key: -124189392 
+Time to set key: -124350349 
+Time to set key: -124485554 
+Time to set key: -124697387 
+Time to set key: -124866963 
+Time to set key: -125038544 
+Time to set key: -125220015 
+Time to set key: -125385971 
+Time to set key: -125583753 
+Time to set key: -125737963 
+Time to set key: -125888200 
+Time to set key: -126042327 
+Time to set key: -126211509 
+Time to set key: -126370626 
+Time to set key: -126521206 
+Time to set key: -126691545 
+Time to set key: -126847854 
+Time to set key: -126993901 
+Time to set key: -127128243 
+Time to set key: -127278500 
+Time to set key: -127435502 
+Time to set key: -127580055 
+Time to set key: -127726956 
+Time to set key: -127895202 
+Time to set key: -128044866 
+Time to set key: -128207476 
+Time to set key: -128435089 
+Time to set key: -128579935 
+Time to set key: -128783258 
+Time to set key: -128946529 
+Time to set key: -129084704 
+Time to set key: -129257237 
+Time to set key: -129399797 
+Time to set key: -129568901 
+Time to set key: -129738569 
+Time to set key: -129932612 
+Time to set key: -130113001 
+Time to set key: -130282806 
+Time to set key: -130464320 
+Time to set key: -130634719 
+Time to set key: -130806086 
+Time to set key: -130985183 
+Time to set key: -131105982 
+Time to set key: -131243886 
+Time to set key: -131395719 
+Time to set key: -131520257 
+Time to set key: -131673464 
+Time to set key: -131826337 
+Time to set key: -132036540 
+Time to set key: -132203425 
+Time to set key: -132385728 
+Time to set key: -132582431 
+Time to set key: -132776322 
+Time to set key: -132950925 
+Time to set key: -133151510 
+Time to set key: -133338472 
+Time to set key: -133527488 
+Time to set key: -133721951 
+Time to set key: -133897954 
+Time to set key: -134113778 
+Time to set key: -134307506 
+Time to set key: -134483948 
+Time to set key: -134698401 
+Time to set key: -134863491 
+Time to set key: -135039136 
+Time to set key: -135204638 
+Time to set key: -135375950 
+Time to set key: -135579363 
+Time to set key: -135807699 
+Time to set key: -136006866 
+Time to set key: -136152614 
+Time to set key: -136338547 
+Time to set key: -136516075 
+Time to set key: -136694569 
+Time to set key: -136894644 
+Time to set key: -137077926 
+Time to set key: -137256480 
+Time to set key: -137456254 
+Time to set key: -137616294 
+Time to set key: -137770015 
+Time to set key: -137939515 
+Time to set key: -138130770 
+Time to set key: -138336818 
+Time to set key: -138528620 
+Time to set key: -138733182 
+Time to set key: -138926651 
+Time to set key: -139162451 
+Time to set key: -139307936 
+Time to set key: -139525981 
+Time to set key: -139788408 
+Time to set key: -139977808 
+Time to set key: -140208421 
+Time to set key: -140376527 
+Time to set key: -140545163 
+Time to set key: -140733560 
+Time to set key: -140884156 
+Time to set key: -141071155 
+Time to set key: -141239215 
+Time to set key: -141406247 
+Time to set key: -141568516 
+Time to set key: -141758302 
+Time to set key: -141934846 
+Time to set key: -142130333 
+Time to set key: -142267619 
+Time to set key: -142398660 
+Time to set key: -142564350 
+Time to set key: -142722471 
+Time to set key: -142892640 
+Time to set key: -143094180 
+Time to set key: -143248162 
+Time to set key: -143395742 
+Time to set key: -143560272 
+Time to set key: -143743001 
+Time to set key: -143913789 
+Time to set key: -144101060 
+Time to set key: -144244690 
+Time to set key: -144385723 
+Time to set key: -144552068 
+Time to set key: -144745698 
+Time to set key: -144907980 
+Time to set key: -145065966 
+Time to set key: -145217536 
+Time to set key: -145369976 
+Time to set key: -145529329 
+Time to set key: -145673387 
+Time to set key: -145812123 
+Time to set key: -145965442 
+Time to set key: -146141954 
+Time to set key: -146310878 
+Time to set key: -146480453 
+Times set key: 356 
+Time for key agreement: 74492 ms
+Time for key agreement: 77524 ms
+Time for key agreement: 81541 ms
+Time for key agreement: 74139 ms
+Time for key agreement: 75816 ms
+Time for key agreement: 66100 ms
+Time for key agreement: 70980 ms
+Time for key agreement: 86921 ms
+Time for key agreement: 91795 ms
+Time for key agreement: 77091 ms
+Time for key agreement: 64160 ms
+Time for key agreement: 69509 ms
+Time for key agreement: 76709 ms
+Time for key agreement: 86766 ms
+Time for key agreement: 85104 ms
+Time for key agreement: 85232 ms
+Time for key agreement: 88286 ms
+Time for key agreement: 74446 ms
+Time for key agreement: 71211 ms
+Time for key agreement: 80147 ms
+Time for key agreement: 69758 ms
+Time for key agreement: 60663 ms
+Time for key agreement: 54749 ms
+Time for key agreement: 60689 ms
+Time for key agreement: 64040 ms
+Time for key agreement: 102258 ms
+Time for key agreement: 75880 ms
+Time for key agreement: 71228 ms
+Time for key agreement: 63918 ms
+Time for key agreement: 74868 ms
+Time for key agreement: 63208 ms
+Time for key agreement: 94241 ms
+Time for key agreement: 98699 ms
+Time for key agreement: 83315 ms
+Time for key agreement: 90155 ms
+Time for key agreement: 82439 ms
+Time for key agreement: 98497 ms
+Time for key agreement: 83415 ms
+Time for key agreement: 91705 ms
+Time for key agreement: 242412 ms
+Time for key agreement: 155144 ms
+Time for key agreement: 283295 ms
+Time for key agreement: 118308 ms
+Time for key agreement: 76734 ms
+Time for key agreement: 94034 ms
+Time for key agreement: 157693 ms
+Time for key agreement: 125749 ms
+Time for key agreement: 118342 ms
+Time for key agreement: 130880 ms
+Time for key agreement: 129262 ms
+Time for key agreement: 64031 ms
+Time for key agreement: 64389 ms
+Time for key agreement: 75176 ms
+Time for key agreement: 69883 ms
+Time for key agreement: 92420 ms
+Time for key agreement: 96668 ms
+Time for key agreement: 110560 ms
+Time for key agreement: 84067 ms
+Time for key agreement: 84372 ms
+Time for key agreement: 83617 ms
+Time for key agreement: 76538 ms
+Time for key agreement: 83463 ms
+Time for key agreement: 67468 ms
+Time for key agreement: 89538 ms
+Time for key agreement: 73345 ms
+Time for key agreement: 60602 ms
+Time for key agreement: 83174 ms
+Time for key agreement: 90363 ms
+Time for key agreement: 83419 ms
+Time for key agreement: 60379 ms
+Time for key agreement: 69260 ms
+Time for key agreement: 77609 ms
+Time for key agreement: 84752 ms
+Time for key agreement: 68417 ms
+Time for key agreement: 69255 ms
+Time for key agreement: 76777 ms
+Time for key agreement: 72484 ms
+Time for key agreement: 89034 ms
+Time for key agreement: 70083 ms
+Time for key agreement: 83462 ms
+Time for key agreement: 69199 ms
+Time for key agreement: 70528 ms
+Time for key agreement: 74166 ms
+Time for key agreement: 57116 ms
+Time for key agreement: 71551 ms
+Time for key agreement: 72775 ms
+Time for key agreement: 67350 ms
+Time for key agreement: 64919 ms
+Time for key agreement: 67829 ms
+Time for key agreement: 61336 ms
+Time for key agreement: 61193 ms
+Time for key agreement: 86345 ms
+Time for key agreement: 67558 ms
+Time for key agreement: 60741 ms
+Time for key agreement: 82881 ms
+Time for key agreement: 131163 ms
+Time for key agreement: 78595 ms
+Time for key agreement: 56866 ms
+Time for key agreement: 71828 ms
+Time for key agreement: 62261 ms
+Time for key agreement: 62039 ms
+Time for key agreement: 71457 ms
+Time for key agreement: 58812 ms
+Time for key agreement: 101931 ms
+Time for key agreement: 79886 ms
+Time for key agreement: 85556 ms
+Time for key agreement: 87483 ms
+Time for key agreement: 83073 ms
+Time for key agreement: 81454 ms
+Time for key agreement: 64815 ms
+Time for key agreement: 63186 ms
+Time for key agreement: 61394 ms
+Time for key agreement: 73995 ms
+Time for key agreement: 71115 ms
+Time for key agreement: 71777 ms
+Time for key agreement: 94777 ms
+Time for key agreement: 76411 ms
+Time for key agreement: 60779 ms
+Time for key agreement: 73601 ms
+Time for key agreement: 69699 ms
+Time for key agreement: 64341 ms
+Time for key agreement: 84169 ms
+Time for key agreement: 91053 ms
+Time for key agreement: 57713 ms
+Time for key agreement: 66903 ms
+Time for key agreement: 74790 ms
+Time for key agreement: 81486 ms
+Time for key agreement: 74212 ms
+Time for key agreement: 54278 ms
+Time for key agreement: 74357 ms
+Time for key agreement: 104232 ms
+Time for key agreement: 72005 ms
+Time for key agreement: 73024 ms
+Time for key agreement: 68578 ms
+Time for key agreement: 72730 ms
+Time for key agreement: 75082 ms
+Time for key agreement: 91771 ms
+Time for key agreement: 87695 ms
+Time for key agreement: 80093 ms
+Time for key agreement: 77128 ms
+Time for key agreement: 67302 ms
+Time for key agreement: 71876 ms
+Time for key agreement: 66079 ms
+Time for key agreement: 79013 ms
+Time for key agreement: 67931 ms
+Time for key agreement: 83520 ms
+Time for key agreement: 81330 ms
+Time for key agreement: 73650 ms
+Time for key agreement: 72232 ms
+Time for key agreement: 68461 ms
+Time for key agreement: 55996 ms
+Time for key agreement: 54716 ms
+Time for key agreement: 58731 ms
+Time for key agreement: 76221 ms
+Time for key agreement: 55091 ms
+Time for key agreement: 71862 ms
+Time for key agreement: 57782 ms
+Time for key agreement: 60618 ms
+Time for key agreement: 92078 ms
+Time for key agreement: 70639 ms
+Time for key agreement: 71316 ms
+Time for key agreement: 56911 ms
+Time for key agreement: 70503 ms
+Time for key agreement: 61341 ms
+Time for key agreement: 68964 ms
+Time for key agreement: 100255 ms
+Time for key agreement: 67405 ms
+Time for key agreement: 78543 ms
+Time for key agreement: 65912 ms
+Time for key agreement: 64770 ms
+Time for key agreement: 81171 ms
+Time for key agreement: 64772 ms
+Time for key agreement: 76049 ms
+Time for key agreement: 61089 ms
+Time for key agreement: 86040 ms
+Time for key agreement: 80490 ms
+Time for key agreement: 48218 ms
+Time for key agreement: 63428 ms
+Time for key agreement: 67894 ms
+Time for key agreement: 61762 ms
+Time for key agreement: 68580 ms
+Time for key agreement: 73817 ms
+Time for key agreement: 86995 ms
+Time for key agreement: 82414 ms
+Time for key agreement: 87299 ms
+Time for key agreement: 66799 ms
+Time for key agreement: 81603 ms
+Time for key agreement: 75657 ms
+Time for key agreement: 76879 ms
+Time for key agreement: 70414 ms
+Time for key agreement: 76110 ms
+Time for key agreement: 68045 ms
+Time for key agreement: 84570 ms
+Time for key agreement: 79108 ms
+Time for key agreement: 70313 ms
+Time for key agreement: 78381 ms
+Time for key agreement: 56434 ms
+Time for key agreement: 61966 ms
+Time for key agreement: 67366 ms
+Time for key agreement: 73870 ms
+Time for key agreement: 62832 ms
+Time for key agreement: 60077 ms
+Time for key agreement: 79983 ms
+Time for key agreement: 67773 ms
+Time for key agreement: 76548 ms
+Time for key agreement: 96911 ms
+Time for key agreement: 91504 ms
+Time for key agreement: 88445 ms
+Time for key agreement: 84329 ms
+Time for key agreement: 106009 ms
+Time for key agreement: 88220 ms
+Time for key agreement: 47793 ms
+Time for key agreement: 61798 ms
+Time for key agreement: 60092 ms
+Time for key agreement: 76157 ms
+Time for key agreement: 92286 ms
+Time for key agreement: 80939 ms
+Time for key agreement: 72950 ms
+Time for key agreement: 60776 ms
+Time for key agreement: 76078 ms
+Time for key agreement: 68117 ms
+Time for key agreement: 71818 ms
+Time for key agreement: 82052 ms
+Time for key agreement: 84269 ms
+Time for key agreement: 91341 ms
+Time for key agreement: 46412 ms
+Time for key agreement: 78927 ms
+Time for key agreement: 57629 ms
+Time for key agreement: 63530 ms
+Time for key agreement: 58964 ms
+Time for key agreement: 94308 ms
+Time for key agreement: 72703 ms
+Time for key agreement: 71171 ms
+Time for key agreement: 75230 ms
+Time for key agreement: 85330 ms
+Time for key agreement: 76985 ms
+Time for key agreement: 65010 ms
+Time for key agreement: 70609 ms
+Time for key agreement: 70299 ms
+Time for key agreement: 65447 ms
+Time for key agreement: 79043 ms
+Time for key agreement: 72929 ms
+Time for key agreement: 72480 ms
+Time for key agreement: 74941 ms
+Time for key agreement: 75548 ms
+Time for key agreement: 83598 ms
+Time for key agreement: 78913 ms
+Time for key agreement: 80790 ms
+Time for key agreement: 80782 ms
+Time for key agreement: 87928 ms
+Time for key agreement: 57885 ms
+Time for key agreement: 56572 ms
+Time for key agreement: 54832 ms
+Time for key agreement: 53276 ms
+Time for key agreement: 73450 ms
+Time for key agreement: 77157 ms
+Time for key agreement: 57197 ms
+Time for key agreement: 82359 ms
+Time for key agreement: 59538 ms
+Time for key agreement: 65947 ms
+Time for key agreement: 78461 ms
+Time for key agreement: 72192 ms
+Time for key agreement: 58340 ms
+Time for key agreement: 66920 ms
+Time for key agreement: 81740 ms
+Time for key agreement: 70231 ms
+Time for key agreement: 95416 ms
+Time for key agreement: 83125 ms
+Time for key agreement: 83199 ms
+Time for key agreement: 70745 ms
+Time for key agreement: 80607 ms
+Time for key agreement: 67185 ms
+Time for key agreement: 69337 ms
+Time for key agreement: 73630 ms
+Time for key agreement: 69372 ms
+Time for key agreement: 73726 ms
+Time for key agreement: 70687 ms
+Time for key agreement: 73034 ms
+Time for key agreement: 66365 ms
+Time for key agreement: 66284 ms
+Time for key agreement: 75277 ms
+Time for key agreement: 90298 ms
+Time for key agreement: 58540 ms
+Time for key agreement: 66319 ms
+Time for key agreement: 75046 ms
+Time for key agreement: 65469 ms
+Time for key agreement: 69017 ms
+Time for key agreement: 50024 ms
+Time for key agreement: 52970 ms
+Time for key agreement: 64692 ms
+Time for key agreement: 70680 ms
+Time for key agreement: 87195 ms
+Time for key agreement: 80235 ms
+Time for key agreement: 80505 ms
+Time for key agreement: 75034 ms
+Time for key agreement: 69481 ms
+Time for key agreement: 78403 ms
+Time for key agreement: 80928 ms
+Time for key agreement: 64296 ms
+Time for key agreement: 65026 ms
+Time for key agreement: 73620 ms
+Time for key agreement: 69234 ms
+Time for key agreement: 61942 ms
+Time for key agreement: 50681 ms
+Time for key agreement: 55051 ms
+Time for key agreement: 64875 ms
+Time for key agreement: 62573 ms
+Time for key agreement: 81499 ms
+Time for key agreement: 74425 ms
+Time for key agreement: 84886 ms
+Time for key agreement: 69762 ms
+Time for key agreement: 64012 ms
+Time for key agreement: 91070 ms
+Time for key agreement: 70703 ms
+Time for key agreement: 56816 ms
+Time for key agreement: 46556 ms
+Time for key agreement: 55724 ms
+Time for key agreement: 54101 ms
+Time for key agreement: 59137 ms
+Time for key agreement: 72026 ms
+Time for key agreement: 85470 ms
+Time for key agreement: 101663 ms
+Time for key agreement: 101766 ms
+Time for key agreement: 77718 ms
+Time for key agreement: 65356 ms
+Time for key agreement: 68973 ms
+Time for key agreement: 84728 ms
+Time for key agreement: 69835 ms
+Time for key agreement: 65052 ms
+Time for key agreement: 69757 ms
+Time for key agreement: 90846 ms
+Time for key agreement: 71609 ms
+Time for key agreement: 91216 ms
+Time for key agreement: 64920 ms
+Time for key agreement: 64621 ms
+Time for key agreement: 64162 ms
+Time for key agreement: 62370 ms
+Time for key agreement: 66819 ms
+Time for key agreement: 70990 ms
+Time for key agreement: 80594 ms
+Time for key agreement: 72407 ms
+Time for key agreement: 71890 ms
+Time for key agreement: 65271 ms
+Time for key agreement: 73965 ms
+Time for key agreement: 86309 ms
+Time for key agreement: 72552 ms
+Time for key agreement: 75068 ms
+Time for key agreement: 58011 ms
+Time for key agreement: 68129 ms
+Time for key agreement: 69371 ms
+Time for key agreement: 74650 ms
+Time for key agreement: 76856 ms
+Time for key agreement: 70815 ms
+Time for key agreement: 85023 ms
+Time for key agreement: 73382 ms
+Time for key agreement: 66454 ms
+Time for key agreement: 68499 ms
+Time for key agreement: 78712 ms
+Time for key agreement: 76447 ms
+Time for key agreement: 50629 ms
+Time for key agreement: 79926 ms
+Time for key agreement: 69712 ms
+Time for key agreement: 59841 ms
+Time for key agreement: 71383 ms
+Time for key agreement: 88621 ms
+Time for key agreement: 71442 ms
+Time for key agreement: 79689 ms
+Time for key agreement: 71164 ms
+Time for key agreement: 60656 ms
+Time for key agreement: 68114 ms
+Time for key agreement: 59287 ms
+Time for key agreement: 80204 ms
+Time for key agreement: 81943 ms
+Time for key agreement: 80443 ms
+Time for key agreement: 55976 ms
+Time for key agreement: 49441 ms
+Time for key agreement: 52756 ms
+Time for key agreement: 70018 ms
+Time for key agreement: 61305 ms
+Time for key agreement: 83331 ms
+Time for key agreement: 56591 ms
+Time for key agreement: 60907 ms
+Time for key agreement: 47223 ms
+Time for key agreement: 51236 ms
+Time for key agreement: 53601 ms
+Time for key agreement: 56320 ms
+Time for key agreement: 48559 ms
+Time for key agreement: 55207 ms
+Time for key agreement: 69091 ms
+Time for key agreement: 69492 ms
+Time for key agreement: 53108 ms
+Time for key agreement: 68961 ms
+Time for key agreement: 69088 ms
+Time for key agreement: 52823 ms
+Time for key agreement: 52987 ms
+Time for key agreement: 64686 ms
+Time for key agreement: 59033 ms
+Time for key agreement: 71881 ms
+Time for key agreement: 70517 ms
+Time for key agreement: 75393 ms
+Time for key agreement: 56979 ms
+Time for key agreement: 58511 ms
+Time for key agreement: 56834 ms
+Time for key agreement: 75630 ms
+Time for key agreement: 69201 ms
+Time for key agreement: 59714 ms
+Time for key agreement: 56860 ms
+Time for key agreement: 65117 ms
+Time for key agreement: 67658 ms
+Time for key agreement: 63810 ms
+Time for key agreement: 66565 ms
+Time for key agreement: 69684 ms
+Time for key agreement: 76915 ms
+Time for key agreement: 68336 ms
+Time for key agreement: 78504 ms
+Time for key agreement: 68610 ms
+Time for key agreement: 60058 ms
+Time for key agreement: 84995 ms
+Time for key agreement: 77075 ms
+Time for key agreement: 87610 ms
+Time for key agreement: 90150 ms
+Time for key agreement: 56766 ms
+Time for key agreement: 62756 ms
+Time for key agreement: 58587 ms
+Time for key agreement: 69425 ms
+Time for key agreement: 71156 ms
+Time for key agreement: 76717 ms
+Time for key agreement: 83001 ms
+Time for key agreement: 68587 ms
+Time for key agreement: 81160 ms
+Time for key agreement: 65245 ms
+Time for key agreement: 75929 ms
+Time for key agreement: 70154 ms
+Time for key agreement: 70248 ms
+Time for key agreement: 62276 ms
+Time for key agreement: 74487 ms
+Time for key agreement: 53470 ms
+Time for key agreement: 60475 ms
+Time for key agreement: 55688 ms
+Time for key agreement: 67914 ms
+Time for key agreement: 69283 ms
+Time for key agreement: 68297 ms
+Time for key agreement: 86216 ms
+Time for key agreement: 99961 ms
+Time for key agreement: 69650 ms
+Time for key agreement: 61915 ms
+Time for key agreement: 55565 ms
+Time for key agreement: 84635 ms
+Time for key agreement: 58261 ms
+Time for key agreement: 60228 ms
+Time for key agreement: 69812 ms
+Time for key agreement: 70057 ms
+Time for key agreement: 79406 ms
+Time for key agreement: 79413 ms
+Time for key agreement: 72168 ms
+Time for key agreement: 69626 ms
+Time for key agreement: 55832 ms
+Time for key agreement: 64783 ms
+Time for key agreement: 84188 ms
+Time for key agreement: 74465 ms
+Time for key agreement: 57650 ms
+Time for key agreement: 61349 ms
+Time for key agreement: 45717 ms
+Time for key agreement: 54080 ms
+Time for key agreement: 65745 ms
+Time for key agreement: 63739 ms
+Time for key agreement: 70122 ms
+Time for key agreement: 78718 ms
+Time for key agreement: 73018 ms
+Time for key agreement: 71360 ms
+Time for key agreement: 72538 ms
+Time for key agreement: 57971 ms
+Time for key agreement: 59491 ms
+Time for key agreement: 69996 ms
+Time for key agreement: 67742 ms
+Time for key agreement: 98039 ms
+Time for key agreement: 82376 ms
+Time for key agreement: 75429 ms
+Time for key agreement: 70417 ms
+Time for key agreement: 81399 ms
+Time for key agreement: 75155 ms
+Time for key agreement: 82242 ms
+Time for key agreement: 68203 ms
+Time for key agreement: 84771 ms
+Time for key agreement: 65880 ms
+Time for key agreement: 101030 ms
+Time for key agreement: 68352 ms
+Time for key agreement: 78140 ms
+Time for key agreement: 77295 ms
+Time for key agreement: 74492 ms
+Time for key agreement: 79339 ms
+Time for key agreement: 67386 ms
+Time for key agreement: 73720 ms
+Time for key agreement: 72736 ms
+Time for key agreement: 91403 ms
+Time for key agreement: 90921 ms
+Time for key agreement: 80583 ms
+Time for key agreement: 78885 ms
+Time for key agreement: 69572 ms
+Time for key agreement: 79693 ms
+Time for key agreement: 62997 ms
+Time for key agreement: 72523 ms
+Time for key agreement: 80090 ms
+Time for key agreement: 65253 ms
+Time for key agreement: 111363 ms
+Time for key agreement: 74300 ms
+Time for key agreement: 69146 ms
+Time for key agreement: 75306 ms
+Time for key agreement: 73284 ms
+Time for key agreement: 86748 ms
+Time for key agreement: 83081 ms
+Time for key agreement: 70765 ms
+Time for key agreement: 66297 ms
+Time for key agreement: 84968 ms
+Time for key agreement: 81510 ms
+Time for key agreement: 82834 ms
+Time for key agreement: 80312 ms
+Time for key agreement: 66430 ms
+Time for key agreement: 67147 ms
+Time for key agreement: 59745 ms
+Time for key agreement: 81968 ms
+Time for key agreement: 53691 ms
+Time for key agreement: 65689 ms
+Time for key agreement: 60158 ms
+Time for key agreement: 73433 ms
+Time for key agreement: 71134 ms
+Time for key agreement: 75145 ms
+Time for key agreement: 83002 ms
+Time for key agreement: 63308 ms
+Time for key agreement: 75663 ms
+Time for key agreement: 69242 ms
+Time for key agreement: 78288 ms
+Time for key agreement: 61592 ms
+Time for key agreement: 50103 ms
+Time for key agreement: 55809 ms
+Time for key agreement: 67159 ms
+Time for key agreement: 68910 ms
+Time for key agreement: 55913 ms
+Time for key agreement: 57400 ms
+Time for key agreement: 60289 ms
+Time for key agreement: 54747 ms
+Time for key agreement: 53684 ms
+Time for key agreement: 50209 ms
+Time for key agreement: 74499 ms
+Time for key agreement: 56203 ms
+Time for key agreement: 82159 ms
+Time for key agreement: 68303 ms
+Time for key agreement: 83305 ms
+Time for key agreement: 73286 ms
+Time for key agreement: 81188 ms
+Time for key agreement: 77349 ms
+Time for key agreement: 67887 ms
+Time for key agreement: 78032 ms
+Time for key agreement: 66216 ms
+Time for key agreement: 77223 ms
+Time for key agreement: 68753 ms
+Time for key agreement: 57978 ms
+Time for key agreement: 74938 ms
+Time for key agreement: 66946 ms
+Time for key agreement: 65397 ms
+Time for key agreement: 59698 ms
+Time for key agreement: 82349 ms
+Time for key agreement: 76912 ms
+Time for key agreement: 83732 ms
+Time for key agreement: 66075 ms
+Time for key agreement: 52545 ms
+Time for key agreement: 72568 ms
+Time for key agreement: 54332 ms
+Time for key agreement: 83007 ms
+Time for key agreement: 72105 ms
+Time for key agreement: 52660 ms
+Time for key agreement: 59219 ms
+Time for key agreement: 66001 ms
+Time for key agreement: 80046 ms
+Time for key agreement: 70524 ms
+Time for key agreement: 72929 ms
+Time for key agreement: 91030 ms
+Time for key agreement: 60678 ms
+Time for key agreement: 71466 ms
+Time for key agreement: 81205 ms
+Time for key agreement: 84422 ms
+Time for key agreement: 64064 ms
+Time for key agreement: 72664 ms
+Time for key agreement: 67010 ms
+Time for key agreement: 72043 ms
+Time for key agreement: 83640 ms
+Time for key agreement: 77336 ms
+Time for key agreement: 65813 ms
+Time for key agreement: 66083 ms
+Time for key agreement: 57397 ms
+Time for key agreement: 56865 ms
+Time for key agreement: 54795 ms
+Time for key agreement: 59162 ms
+Time for key agreement: 71505 ms
+Time for key agreement: 73244 ms
+Time for key agreement: 80467 ms
+Time for key agreement: 69476 ms
+Time for key agreement: 66012 ms
+Time for key agreement: 65619 ms
+Time for key agreement: 68220 ms
+Time for key agreement: 68919 ms
+Time for key agreement: 69490 ms
+Time for key agreement: 69267 ms
+Time for key agreement: 75841 ms
+Time for key agreement: 53853 ms
+Time for key agreement: 66842 ms
+Time for key agreement: 69347 ms
+Time for key agreement: 54446 ms
+Time for key agreement: 78653 ms
+Time for key agreement: 67977 ms
+Time for key agreement: 75102 ms
+Time for key agreement: 80421 ms
+Time for key agreement: 77500 ms
+Time for key agreement: 59097 ms
+Time for key agreement: 74635 ms
+Time for key agreement: 66341 ms
+Time for key agreement: 56732 ms
+Time for key agreement: 72136 ms
+Time for key agreement: 69378 ms
+Time for key agreement: 68031 ms
+Time for key agreement: 71456 ms
+Time for key agreement: 78479 ms
+Time for key agreement: 68916 ms
+Time for key agreement: 70054 ms
+Time for key agreement: 52732 ms
+Time for key agreement: 71343 ms
+Time for key agreement: 71462 ms
+Time for key agreement: 69698 ms
+Time for key agreement: 68253 ms
+Time for key agreement: 61214 ms
+Time for key agreement: 66025 ms
+Time for key agreement: 78080 ms
+Time for key agreement: 85487 ms
+Time for key agreement: 92304 ms
+Time for key agreement: 84975 ms
+Time for key agreement: 67691 ms
+Time for key agreement: 90053 ms
+Time for key agreement: 85962 ms
+Time for key agreement: 90987 ms
+Time for key agreement: 67922 ms
+Time for key agreement: 64142 ms
+Time for key agreement: 86616 ms
+Time for key agreement: 63466 ms
+Time for key agreement: 69057 ms
+Time for key agreement: 76609 ms
+Time for key agreement: 83600 ms
+Time for key agreement: 65550 ms
+Time for key agreement: 81207 ms
+Time for key agreement: 58383 ms
+Time for key agreement: 67171 ms
+Time for key agreement: 75762 ms
+Time for key agreement: 81378 ms
+Time for key agreement: 87645 ms
+Time for key agreement: 88456 ms
+Time for key agreement: 98165 ms
+Time for key agreement: 86415 ms
+Time for key agreement: 99396 ms
+Time for key agreement: 64857 ms
+Time for key agreement: 68602 ms
+Time for key agreement: 91692 ms
+Time for key agreement: 77545 ms
+Time for key agreement: 84492 ms
+Time for key agreement: 77382 ms
+Time for key agreement: 75315 ms
+Time for key agreement: 77421 ms
+Time for key agreement: 81730 ms
+Time for key agreement: 78268 ms
+Time for key agreement: 63534 ms
+Time for key agreement: 65860 ms
+Time for key agreement: 86921 ms
+Time for key agreement: 69174 ms
+Time for key agreement: 79814 ms
+Time for key agreement: 74236 ms
+Time for key agreement: 69305 ms
+Time for key agreement: 76250 ms
+Time for key agreement: 65068 ms
+Time for key agreement: 69766 ms
+Time for key agreement: 60495 ms
+Time for key agreement: 70056 ms
+Time for key agreement: 57490 ms
+Time for key agreement: 75332 ms
+Time for key agreement: 60229 ms
+Time for key agreement: 59273 ms
+Time for key agreement: 72275 ms
+Time for key agreement: 71690 ms
+Time for key agreement: 63970 ms
+Time for key agreement: 60217 ms
+Time for key agreement: 54683 ms
+Time for key agreement: 74916 ms
+Time for key agreement: 67955 ms
+Time for key agreement: 64803 ms
+Time for key agreement: 77301 ms
+Time for key agreement: 64571 ms
+Time for key agreement: 59631 ms
+Time for key agreement: 79420 ms
+Time for key agreement: 61612 ms
+Time for key agreement: 59617 ms
+Time for key agreement: 60892 ms
+Time for key agreement: 79110 ms
+Time for key agreement: 71475 ms
+Time for key agreement: 58929 ms
+Time for key agreement: 61183 ms
+Time for key agreement: 56515 ms
+Time for key agreement: 62884 ms
+Time for key agreement: 56181 ms
+Time for key agreement: 53058 ms
+Time for key agreement: 77443 ms
+Time for key agreement: 67822 ms
+Time for key agreement: 71880 ms
+Time for key agreement: 59906 ms
+Time for key agreement: 74218 ms
+Time for key agreement: 80693 ms
+Time for key agreement: 74399 ms
+Time for key agreement: 59084 ms
+Time for key agreement: 59432 ms
+Time for key agreement: 52635 ms
+Time for key agreement: 84218 ms
+Time for key agreement: 71113 ms
+Time for key agreement: 78773 ms
+Time for key agreement: 64632 ms
+Time for key agreement: 67347 ms
+Time for key agreement: 59288 ms
+Time for key agreement: 96772 ms
+Time for key agreement: 74121 ms
+Time for key agreement: 56213 ms
+Time for key agreement: 57380 ms
+Time for key agreement: 60935 ms
+Time for key agreement: 62793 ms
+Time for key agreement: 66898 ms
+Time for key agreement: 69641 ms
+Time for key agreement: 68583 ms
+Time for key agreement: 67535 ms
+Time for key agreement: 65397 ms
+Time for key agreement: 58155 ms
+Time for key agreement: 63277 ms
+Time for key agreement: 56551 ms
+Time for key agreement: 64343 ms
+Time for key agreement: 57344 ms
+Time for key agreement: 62802 ms
+Time for key agreement: 72967 ms
+Time for key agreement: 68910 ms
+Time for key agreement: 51544 ms
+Time for key agreement: 78094 ms
+Time for key agreement: 79050 ms
+Time for key agreement: 72980 ms
+Time for key agreement: 71850 ms
+Time for key agreement: 67521 ms
+Time for key agreement: 76079 ms
+Time for key agreement: 64637 ms
+Time for key agreement: 94595 ms
+Time for key agreement: 73900 ms
+Time for key agreement: 66846 ms
+Time for key agreement: 56973 ms
+Time for key agreement: 59792 ms
+Time for key agreement: 64316 ms
+Time for key agreement: 58980 ms
+Time for key agreement: 62067 ms
+Time for key agreement: 73800 ms
+Time for key agreement: 66509 ms
+Time for key agreement: 56688 ms
+Time for key agreement: 71180 ms
+Time for key agreement: 64885 ms
+Time for key agreement: 69176 ms
+Time for key agreement: 66951 ms
+Time for key agreement: 70973 ms
+Time for key agreement: 60377 ms
+Time for key agreement: 77384 ms
+Time for key agreement: 87028 ms
+Time for key agreement: 72253 ms
+Time for key agreement: 87796 ms
+Time for key agreement: 66651 ms
+Time for key agreement: 66557 ms
+Time for key agreement: 68326 ms
+Time for key agreement: 70011 ms
+Time for key agreement: 52644 ms
+Time for key agreement: 75914 ms
+Time for key agreement: 63204 ms
+Time for key agreement: 64149 ms
+Time for key agreement: 59164 ms
+Time for key agreement: 67351 ms
+Time for key agreement: 70192 ms
+Time for key agreement: 60134 ms
+Time for key agreement: 75169 ms
+Time for key agreement: 60869 ms
+Time for key agreement: 55787 ms
+Time for key agreement: 66942 ms
+Time for key agreement: 66022 ms
+Time for key agreement: 67386 ms
+Time for key agreement: 62521 ms
+Time for key agreement: 63142 ms
+Time for key agreement: 67376 ms
+Time for key agreement: 55551 ms
+Time for key agreement: 71897 ms
+Time for key agreement: 62216 ms
+Time for key agreement: 57396 ms
+Time for key agreement: 60406 ms
+Time for key agreement: 64106 ms
+Time for key agreement: 79314 ms
+Time for key agreement: 68379 ms
+Time for key agreement: 69380 ms
+Time for key agreement: 69711 ms
+Time for key agreement: 72176 ms
+Time for key agreement: 64590 ms
+Time for key agreement: 76257 ms
+Time for key agreement: 63917 ms
+Time for key agreement: 74109 ms
+Time for key agreement: 75471 ms
+Time for key agreement: 82789 ms
+Time for key agreement: 65598 ms
+Time for key agreement: 57601 ms
+Time for key agreement: 56554 ms
+Time for key agreement: 82921 ms
+Time for key agreement: 82357 ms
+Time for key agreement: 63090 ms
+Time for key agreement: 64469 ms
+Time for key agreement: 53559 ms
+Time for key agreement: 58668 ms
+Time for key agreement: 72371 ms
+Time for key agreement: 76089 ms
+Time for key agreement: 59155 ms
+Time for key agreement: 74519 ms
+Time for key agreement: 66092 ms
+Time for key agreement: 57171 ms
+Time for key agreement: 85601 ms
+Time for key agreement: 83567 ms
+Time for key agreement: 61068 ms
+Time for key agreement: 91923 ms
+Time for key agreement: 69692 ms
+Time for key agreement: 69919 ms
+Time for key agreement: 68795 ms
+Time for key agreement: 59844 ms
+Time for key agreement: 67232 ms
+Time for key agreement: 67835 ms
+Time for key agreement: 61353 ms
+Time for key agreement: 73049 ms
+Time for key agreement: 67933 ms
+Time for key agreement: 64110 ms
+Time for key agreement: 69966 ms
+Time for key agreement: 60884 ms
+Time for key agreement: 67076 ms
+Time for key agreement: 59037 ms
+Time for key agreement: 50968 ms
+Time for key agreement: 58684 ms
+Time for key agreement: 61575 ms
+Time for key agreement: 63048 ms
+Time for key agreement: 68773 ms
+Time for key agreement: 79401 ms
+Time for key agreement: 67328 ms
+Time for key agreement: 59104 ms
+Time for key agreement: 80005 ms
+Time for key agreement: 59302 ms
+Time for key agreement: 61658 ms
+Time for key agreement: 59780 ms
+Time for key agreement: 54512 ms
+Time for key agreement: 66433 ms
+Time for key agreement: 65557 ms
+Time for key agreement: 70059 ms
+Time for key agreement: 71944 ms
+Time for key agreement: 70331 ms
+Time for key agreement: 59843 ms
+Time for key agreement: 61586 ms
+Time for key agreement: 66733 ms
+Time for key agreement: 56233 ms
+Time for key agreement: 64780 ms
+Time for key agreement: 68641 ms
+Time for key agreement: 68548 ms
+Time for key agreement: 62181 ms
+Time for key agreement: 89743 ms
+Time for key agreement: 64561 ms
+Time for key agreement: 57943 ms
+Time for key agreement: 48713 ms
+Time for key agreement: 67603 ms
+Time for key agreement: 69753 ms
+Time for key agreement: 68511 ms
+Time for key agreement: 55905 ms
+Time for key agreement: 77743 ms
+Time for key agreement: 68391 ms
+Time for key agreement: 61332 ms
+Time for key agreement: 60942 ms
+Time for key agreement: 66862 ms
+Time for key agreement: 60572 ms
+Time for key agreement: 86050 ms
+Time for key agreement: 70451 ms
+Time for key agreement: 71049 ms
+Time for key agreement: 52843 ms
+Time for key agreement: 68758 ms
+Time for key agreement: 63007 ms
+Time for key agreement: 75124 ms
+Time for key agreement: 63859 ms
+Time for key agreement: 57987 ms
+Time for key agreement: 76606 ms
+Time for key agreement: 61476 ms
+Time for key agreement: 68183 ms
+Time for key agreement: 67097 ms
+Time for key agreement: 67584 ms
+Time for key agreement: 79208 ms
+Time for key agreement: 83054 ms
+Time for key agreement: 77975 ms
+Time for key agreement: 68898 ms
+Time for key agreement: 81006 ms
+Time for key agreement: 78223 ms
+Time for key agreement: 68798 ms
+Time for key agreement: 59613 ms
+Time for key agreement: 57366 ms
+Time for key agreement: 66791 ms
+Time for key agreement: 80296 ms
+Time for key agreement: 74305 ms
+Time for key agreement: 72085 ms
+Time for key agreement: 63830 ms
+Time for key agreement: 66569 ms
+Time for key agreement: 60765 ms
+Time for key agreement: 72012 ms
+Time for key agreement: 66327 ms
+Time for key agreement: 58772 ms
+Time for key agreement: 79784 ms
+Time for key agreement: 77190 ms
+Time for key agreement: 70763 ms
+Time for key agreement: 50876 ms
+Time for key agreement: 82119 ms
+Time for key agreement: 67460 ms
+Time for key agreement: 68124 ms
+Time for key agreement: 75605 ms
+Time for key agreement: 75012 ms
+Time for key agreement: 87813 ms
+Time for key agreement: 93141 ms
+Time for key agreement: 60192 ms
+Time for key agreement: 55696 ms
+Time for key agreement: 74808 ms
+Time for key agreement: 71220 ms
+Time for key agreement: 72832 ms
+Time for key agreement: 72191 ms
+Time for key agreement: 68047 ms
+Time for key agreement: 66001 ms
+Time for key agreement: 54744 ms
+Time for key agreement: 79506 ms
+Time for key agreement: 59060 ms
+Time for key agreement: 70463 ms
+Time for key agreement: 75126 ms
+Time for key agreement: 64136 ms
+Time for key agreement: 71526 ms
+Time for key agreement: 69826 ms
+Time for key agreement: 63479 ms
+Time for key agreement: 65694 ms
+Time for key agreement: 73833 ms
+Time for key agreement: 58566 ms
+Time for key agreement: 73250 ms
+Time for key agreement: 74696 ms
+Time for key agreement: 65929 ms
+Time for key agreement: 76683 ms
+Time for key agreement: 61247 ms
+Time for key agreement: 65603 ms
+Time for key agreement: 67810 ms
+Time for key agreement: 67291 ms
+Time for key agreement: 79229 ms
+Time for key agreement: 69504 ms
+Time for key agreement: 77609 ms
+Time for key agreement: 60278 ms
+Time for key agreement: 72228 ms
+Time for key agreement: 65135 ms
+Time for key agreement: 72532 ms
+Time for key agreement: 74914 ms
+Time for key agreement: 79004 ms
+Time for key agreement: 77192 ms
+Time for key agreement: 78140 ms
+Time for key agreement: 57049 ms
+Time for key agreement: 67243 ms
+Time for key agreement: 61964 ms
+Time for key agreement: 62195 ms
+Time for key agreement: 65892 ms
+Time for key agreement: 79249 ms
+Time for key agreement: 53234 ms
+Time for key agreement: 73401 ms
+Time for key agreement: 63180 ms
+Time for key agreement: 75778 ms
+Time for key agreement: 52917 ms
+Time for key agreement: 76605 ms
+Time for key agreement: 76255 ms
+Time for key agreement: 101321 ms
+Time for key agreement: 76437 ms
+Time for key agreement: 63701 ms
+Time for key agreement: 64740 ms
+Time for key agreement: 59460 ms
+Time for key agreement: 58095 ms
+Time for key agreement: 64868 ms
+Time for key agreement: 57544 ms
+Time for key agreement: 64330 ms
+Time for key agreement: 53323 ms
+Time for key agreement: 61317 ms
+Time for key agreement: 56192 ms
+Time for key agreement: 63477 ms
+Time for key agreement: 67028 ms
+Time for key agreement: 54272 ms
+Time for key agreement: 73913 ms
+Time for key agreement: 54043 ms
+Time for key agreement: 69141 ms
+Time for key agreement: 63226 ms
+Time for key agreement: 71937 ms
+Time for key agreement: 60821 ms
+Time for key agreement: 74953 ms
+Time for key agreement: 72129 ms
+Time for key agreement: 72462 ms
+Time for key agreement: 68188 ms
+Time for key agreement: 74927 ms
+Time for key agreement: 58649 ms
+Time for key agreement: 65093 ms
+Time for key agreement: 60153 ms
+Time for key agreement: 56451 ms
+Time for key agreement: 75729 ms
+Time for key agreement: 56938 ms
+Time for key agreement: 62597 ms
+Time for key agreement: 54677 ms
+Time for key agreement: 63231 ms
+Time for key agreement: 83964 ms
+Time for key agreement: 84593 ms
+Time for key agreement: 65942 ms
+Time for key agreement: 49786 ms
+Time for key agreement: 58929 ms
+Time for key agreement: 63061 ms
+Time for key agreement: 49713 ms
+Time for key agreement: 72498 ms
+Time for key agreement: 60871 ms
+Time for key agreement: 54055 ms
+Time for key agreement: 53912 ms
+Time for key agreement: 58929 ms
+Time for key agreement: 56955 ms
+Time for key agreement: 66083 ms
+Time for key agreement: 57838 ms
+Time for key agreement: 68226 ms
+Time for key agreement: 53100 ms
+Time for key agreement: 51750 ms
+Time for key agreement: 58173 ms
+Time for key agreement: 57014 ms
+Time for key agreement: 54202 ms
+Time for key agreement: 57408 ms
+Time for key agreement: 81385 ms
+Time for key agreement: 49271 ms
+Time for key agreement: 56991 ms
+Time for key agreement: 57182 ms
+Time for key agreement: 56704 ms
+Time for key agreement: 69248 ms
+Time for key agreement: 62543 ms
+Time for key agreement: 64473 ms
+Time for key agreement: 67495 ms
+Time for key agreement: 66549 ms
+Time for key agreement: 56843 ms
+Time for key agreement: 56438 ms
+Time for key agreement: 59857 ms
+Time for key agreement: 77995 ms
+Time for key agreement: 62835 ms
+Time for key agreement: 62552 ms
+Time for key agreement: 77179 ms
+Time for key agreement: 62002 ms
+Time for key agreement: 68913 ms
+Time for key agreement: 67257 ms
+Time for key agreement: 56981 ms
+Time for key agreement: 64438 ms
+Time for key agreement: 62416 ms
+Time for key agreement: 75992 ms
+Time for key agreement: 61087 ms
+Time for key agreement: 83054 ms
+Time for key agreement: 80798 ms
+Time for key agreement: 74587 ms
+Time for key agreement: 70215 ms
+Time for key agreement: 62006 ms
+Time for key agreement: 76048 ms
+Time for key agreement: 63260 ms
+Time for key agreement: 63685 ms
+Time for key agreement: 56669 ms
+Time for key agreement: 58225 ms
+Time for key agreement: 56435 ms
+Time for key agreement: 58743 ms
+Time for key agreement: 56155 ms
+Time for key agreement: 59026 ms
+Time for key agreement: 55235 ms
+Time for key agreement: 51645 ms
+Time for key agreement: 65605 ms
+Time for key agreement: 63388 ms
+Time for key agreement: 68220 ms
+Time for key agreement: 72799 ms
+Time for key agreement: 65379 ms
+Time for key agreement: 73472 ms
+Time for key agreement: 61874 ms
+Time for key agreement: 87330 ms
+Time for key agreement: 74639 ms
+Time for key agreement: 65965 ms
+Time for key agreement: 61608 ms
+Time for key agreement: 60000 ms
+Time for key agreement: 65257 ms
+Time for key agreement: 65399 ms
+Time for key agreement: 83999 ms
+Time for key agreement: 82536 ms
+Time for key agreement: 82334 ms
+Time for key agreement: 77770 ms
+Time for key agreement: 54546 ms
+Time for key agreement: 64007 ms
+Time for key agreement: 60592 ms
+Time for key agreement: 61742 ms
+Time for key agreement: 65404 ms
+Time for key agreement: 74096 ms
+Time for key agreement: 85299 ms
+Time for key agreement: 69013 ms
+Time for key agreement: 54288 ms
+Time for key agreement: 61197 ms
+Time for key agreement: 68571 ms
+Time for key agreement: 55640 ms
+Time for key agreement: 76009 ms
+Time for key agreement: 63700 ms
+Time for key agreement: 64391 ms
+Time for key agreement: 66090 ms
+Time for key agreement: 69829 ms
+Time for key agreement: 75128 ms
+Time for key agreement: 53922 ms
+Time for key agreement: 77756 ms
+Time for key agreement: 58917 ms
+Time for key agreement: 63204 ms
+Time for key agreement: 71646 ms
+Time for key agreement: 62893 ms
+Time for key agreement: 61520 ms
+Time for key agreement: 63967 ms
+Time for key agreement: 61110 ms
+Time for key agreement: 65040 ms
+Time for key agreement: 60921 ms
+Time for key agreement: 64398 ms
+Time for key agreement: 63126 ms
+Time for key agreement: 66692 ms
+Time for key agreement: 64815 ms
+Time for key agreement: 55732 ms
+Time for key agreement: 73718 ms
+Time for key agreement: 65343 ms
+Time for key agreement: 57075 ms
+Time for key agreement: 77051 ms
+Time for key agreement: 59654 ms
+Time for key agreement: 73495 ms
+Time for key agreement: 53737 ms
+Time for key agreement: 67407 ms
+Time for key agreement: 53104 ms
+Time for key agreement: 67762 ms
+Time for key agreement: 90192 ms
+Time for key agreement: 56961 ms
+Time for key agreement: 52063 ms
+Time for key agreement: 54602 ms
+Time for key agreement: 78893 ms
+Time for key agreement: 73090 ms
+Time for key agreement: 69746 ms
+Time for key agreement: 70534 ms
+Time for key agreement: 56953 ms
+Time for key agreement: 60038 ms
+Time for key agreement: 66481 ms
+Time for key agreement: 76960 ms
+Time for key agreement: 71245 ms
+Time for key agreement: 63802 ms
+Time for key agreement: 74454 ms
+Time for key agreement: 85260 ms
+Time for key agreement: 81258 ms
+Time for key agreement: 66875 ms
+Time for key agreement: 74263 ms
+Time for key agreement: 53756 ms
+Time for key agreement: 66687 ms
+Time for key agreement: 71742 ms
+Time for key agreement: 63562 ms
+Time for key agreement: 83606 ms
+Time for key agreement: 62864 ms
+Time for key agreement: 64892 ms
+Time for key agreement: 77631 ms
+Time for key agreement: 54591 ms
+Time for key agreement: 77353 ms
+Time for key agreement: 70203 ms
+Time for key agreement: 72725 ms
+Time for key agreement: 69840 ms
+Time for key agreement: 64196 ms
+Time for key agreement: 70355 ms
+Time for key agreement: 87961 ms
+Time for key agreement: 66122 ms
+Time for key agreement: 70191 ms
+Time for key agreement: 70789 ms
+Time for key agreement: 70421 ms
+Time for key agreement: 54028 ms
+Time for key agreement: 59755 ms
+Time for key agreement: 71884 ms
+Time for key agreement: 74314 ms
+Time for key agreement: 60088 ms
+Time for key agreement: 72485 ms
+Time for key agreement: 61421 ms
+Time for key agreement: 79413 ms
+Time for key agreement: 60216 ms
+Time for key agreement: 66623 ms
+Time for key agreement: 73794 ms
+Time for key agreement: 75426 ms
+Time for key agreement: 78554 ms
+Time for key agreement: 61671 ms
+Time for key agreement: 76135 ms
+Time for key agreement: 76474 ms
+Time for key agreement: 73240 ms
+Time for key agreement: 60803 ms
+Time for key agreement: 56056 ms
+Time for key agreement: 77502 ms
+Time for key agreement: 68803 ms
+Time for key agreement: 59789 ms
+Time for key agreement: 57862 ms
+Time for key agreement: 71463 ms
+Time for key agreement: 74629 ms
+Time for key agreement: 66685 ms
+Time for key agreement: 82855 ms
+Time for key agreement: 67756 ms
+Time for key agreement: 85892 ms
+Time for key agreement: 60075 ms
+Time for key agreement: 56467 ms
+Time for key agreement: 68571 ms
+Time for key agreement: 54546 ms
+Time for key agreement: 68050 ms
+Time for key agreement: 64118 ms
+Time for key agreement: 51471 ms
+Time for key agreement: 77614 ms
+Time for key agreement: 62781 ms
+Time for key agreement: 50636 ms
+Time for key agreement: 70388 ms
+Time for key agreement: 66516 ms
+Time for key agreement: 63139 ms
+Time for key agreement: 68386 ms
+Time for key agreement: 58620 ms
+Time for key agreement: 69793 ms
+Time for key agreement: 68742 ms
+Time for key agreement: 71730 ms
+Time for key agreement: 61212 ms
+Time for key agreement: 73515 ms
+Time for key agreement: 69985 ms
+Time for key agreement: 86718 ms
+Time for key agreement: 58201 ms
+Time for key agreement: 63201 ms
+Time for key agreement: 73487 ms
+Time for key agreement: 61433 ms
+Time for key agreement: 58621 ms
+Time for key agreement: 81986 ms
+Time for key agreement: 52035 ms
+Time for key agreement: 68769 ms
+Time for key agreement: 73891 ms
+Time for key agreement: 66101 ms
+Time for key agreement: 76167 ms
+Time for key agreement: 67643 ms
+Time for key agreement: 44604 ms
+Time for key agreement: 69759 ms
+Time for key agreement: 50913 ms
+Time for key agreement: 58059 ms
+Time for key agreement: 61291 ms
+Time for key agreement: 54732 ms
+Time for key agreement: 53629 ms
+Time for key agreement: 70972 ms
+Time for key agreement: 64194 ms
+Time for key agreement: 57338 ms
+Time for key agreement: 65942 ms
+Time for key agreement: 57741 ms
+Time for key agreement: 61364 ms
+Time for key agreement: 68032 ms
+Time for key agreement: 70041 ms
+Time for key agreement: 60230 ms
+Time for key agreement: 58346 ms
+Time for key agreement: 71612 ms
+Time for key agreement: 64541 ms
+Time for key agreement: 52249 ms
+Time for key agreement: 65641 ms
+Time for key agreement: 69323 ms
+Time for key agreement: 67900 ms
+Time for key agreement: 63337 ms
+Time for key agreement: 70076 ms
+Time for key agreement: 60323 ms
+Time for key agreement: 68760 ms
+Time for key agreement: 60799 ms
+Time for key agreement: 71749 ms
+Time for key agreement: 78747 ms
+Time for key agreement: 66001 ms
+Time for key agreement: 68473 ms
+Time for key agreement: 64906 ms
+Time for key agreement: 71883 ms
+Time for key agreement: 62592 ms
+Time for key agreement: 69191 ms
+Time for key agreement: 68939 ms
+Time for key agreement: 73634 ms
+Time for key agreement: 70249 ms
+Time for key agreement: 64780 ms
+Time for key agreement: 67924 ms
+Time for key agreement: 59345 ms
+Time for key agreement: 61529 ms
+Time for key agreement: 83512 ms
+Time for key agreement: 74855 ms
+Time for key agreement: 58324 ms
+Time for key agreement: 62237 ms
+Time for key agreement: 75270 ms
+Time for key agreement: 57932 ms
+Time for key agreement: 59379 ms
+Time for key agreement: 67789 ms
+Time for key agreement: 52219 ms
+Time for key agreement: 59752 ms
+Time for key agreement: 62909 ms
+Time for key agreement: 82772 ms
+Time for key agreement: 66611 ms
+Time for key agreement: 54860 ms
+Time for key agreement: 79000 ms
+Time for key agreement: 67504 ms
+Time for key agreement: 73762 ms
+Time for key agreement: 77516 ms
+Time for key agreement: 61701 ms
+Time for key agreement: 67470 ms
+Time for key agreement: 63311 ms
+Time for key agreement: 48631 ms
+Time for key agreement: 54662 ms
+Time for key agreement: 71233 ms
+Time for key agreement: 79061 ms
+Time for key agreement: 61741 ms
+Time for key agreement: 55598 ms
+Time for key agreement: 60013 ms
+Time for key agreement: 68371 ms
+Time for key agreement: 65931 ms
+Time for key agreement: 62881 ms
+Time for key agreement: 68551 ms
+Time for key agreement: 79407 ms
+Time for key agreement: 68015 ms
+Time for key agreement: 69677 ms
+Time for key agreement: 91749 ms
+Time for key agreement: 77648 ms
+Time for key agreement: 48074 ms
+Time for key agreement: 60919 ms
+Time for key agreement: 60900 ms
+Time for key agreement: 54861 ms
+Time for key agreement: 57737 ms
+Time for key agreement: 58045 ms
+Time for key agreement: 66918 ms
+Time for key agreement: 66320 ms
+Time for key agreement: 81010 ms
+Time for key agreement: 79492 ms
+Time for key agreement: 66241 ms
+Time for key agreement: 64531 ms
+Time for key agreement: 63866 ms
+Time for key agreement: 67107 ms
+Time for key agreement: 62938 ms
+Time for key agreement: 73095 ms
+Time for key agreement: 88899 ms
+Time for key agreement: 76058 ms
+Time for key agreement: 67071 ms
+Time for key agreement: 52542 ms
+Time for key agreement: 58758 ms
+Time for key agreement: 54092 ms
+Time for key agreement: 55859 ms
+Time for key agreement: 67073 ms
+Time for key agreement: 81686 ms
+Time for key agreement: 68217 ms
+Time for key agreement: 62673 ms
+Time for key agreement: 67279 ms
+Time for key agreement: 66044 ms
+Time for key agreement: 65027 ms
+Time for key agreement: 74919 ms
+Time for key agreement: 63650 ms
+Time for key agreement: 74000 ms
+Time for key agreement: 82816 ms
+Time for key agreement: 75870 ms
+Time for key agreement: 46766 ms
+Time for key agreement: 63308 ms
+Time for key agreement: 73940 ms
+Time for key agreement: 60244 ms
+Time for key agreement: 75936 ms
+Time for key agreement: 65081 ms
+Time for key agreement: 58108 ms
+Time for key agreement: 45352 ms
+Time for key agreement: 62808 ms
+Time for key agreement: 51584 ms
+Time for key agreement: 61865 ms
+Time for key agreement: 62505 ms
+Time for key agreement: 61255 ms
+Time for key agreement: 62349 ms
+Time for key agreement: 64897 ms
+Time for key agreement: 66210 ms
+Time for key agreement: 63287 ms
+Time for key agreement: 73694 ms
+Time for key agreement: 54889 ms
+Time for key agreement: 55565 ms
+Time for key agreement: 60457 ms
+Time for key agreement: 67325 ms
+Time for key agreement: 61893 ms
+Time for key agreement: 77461 ms
+Time for key agreement: 69363 ms
+Time for key agreement: 74537 ms
+Time for key agreement: 61947 ms
+Time for key agreement: 60976 ms
+Time for key agreement: 63259 ms
+Time for key agreement: 71671 ms
+Time for key agreement: 66053 ms
+Time for key agreement: 60741 ms
+Time for key agreement: 77166 ms
+Time for key agreement: 69471 ms
+Time for key agreement: 66507 ms
+Time for key agreement: 62962 ms
+Time for key agreement: 81656 ms
+Time for key agreement: 80479 ms
+Time for key agreement: 55107 ms
+Time for key agreement: 55063 ms
+Time for key agreement: 48316 ms
+Time for key agreement: 55348 ms
+Time for key agreement: 50266 ms
+Time for key agreement: 55242 ms
+Time for key agreement: 61391 ms
+Time for key agreement: 44778 ms
+Time for key agreement: 54737 ms
+Time for key agreement: 48041 ms
+Time for key agreement: 57399 ms
+Time for key agreement: 57209 ms
+Time for key agreement: 58750 ms
+Time for key agreement: 57985 ms
+Time for key agreement: 79433 ms
+Time for key agreement: 62154 ms
+Time for key agreement: 79279 ms
+Time for key agreement: 70966 ms
+Time for key agreement: 60408 ms
+Time for key agreement: 69213 ms
+Time for key agreement: 79381 ms
+Time for key agreement: 70870 ms
+Time for key agreement: 73658 ms
+Time for key agreement: 69292 ms
+Time for key agreement: 66179 ms
+Time for key agreement: 48311 ms
+Time for key agreement: 66445 ms
+Time for key agreement: 63446 ms
+Time for key agreement: 55851 ms
+Time for key agreement: 61199 ms
+Time for key agreement: 50468 ms
+Time for key agreement: 60646 ms
+Time for key agreement: 56761 ms
+Time for key agreement: 53598 ms
+Time for key agreement: 53955 ms
+Time for key agreement: 63560 ms
+Time for key agreement: 81024 ms
+Time for key agreement: 73484 ms
+Time for key agreement: 72118 ms
+Time for key agreement: 62814 ms
+Time for key agreement: 63958 ms
+Time for key agreement: 68029 ms
+Time for key agreement: 69288 ms
+Time for key agreement: 79006 ms
+Time for key agreement: 64132 ms
+Time for key agreement: 80558 ms
+Time for key agreement: 63001 ms
+Time for key agreement: 74726 ms
+Time for key agreement: 58563 ms
+Time for key agreement: 50144 ms
+Time for key agreement: 66901 ms
+Time for key agreement: 62416 ms
+Time for key agreement: 54110 ms
+Time for key agreement: 56711 ms
+Time for key agreement: 58994 ms
+Time for key agreement: 60004 ms
+Time for key agreement: 70730 ms
+Time for key agreement: 54456 ms
+Time for key agreement: 56780 ms
+Time for key agreement: 74830 ms
+Time for key agreement: 64482 ms
+Time for key agreement: 66237 ms
+Time for key agreement: 50749 ms
+Time for key agreement: 74802 ms
+Time for key agreement: 66063 ms
+Time for key agreement: 67868 ms
+Time for key agreement: 49321 ms
+Time for key agreement: 68152 ms
+Time for key agreement: 60809 ms
+Time for key agreement: 65679 ms
+Time for key agreement: 64196 ms
+Time for key agreement: 62610 ms
+Time for key agreement: 52772 ms
+Time for key agreement: 54302 ms
+Time for key agreement: 62642 ms
+Time for key agreement: 47746 ms
+Time for key agreement: 48189 ms
+Time for key agreement: 47904 ms
+Time for key agreement: 52367 ms
+Time for key agreement: 54387 ms
+Time for key agreement: 61198 ms
+Time for key agreement: 55293 ms
+Time for key agreement: 59092 ms
+Time for key agreement: 51343 ms
+Time for key agreement: 60777 ms
+Time for key agreement: 74517 ms
+Time for key agreement: 63160 ms
+Time for key agreement: 59672 ms
+Time for key agreement: 57300 ms
+Time for key agreement: 75001 ms
+Time for key agreement: 60293 ms
+Time for key agreement: 64548 ms
+Time for key agreement: 67837 ms
+Time for key agreement: 54807 ms
+Time for key agreement: 69938 ms
+Time for key agreement: 71841 ms
+Time for key agreement: 62951 ms
+Time for key agreement: 64786 ms
+Time for key agreement: 58599 ms
+Time for key agreement: 64141 ms
+Time for key agreement: 75087 ms
+Time for key agreement: 78323 ms
+Time for key agreement: 66616 ms
+Time for key agreement: 57384 ms
+Time for key agreement: 65646 ms
+Time for key agreement: 46061 ms
+Time for key agreement: 60514 ms
+Time for key agreement: 72913 ms
+Time for key agreement: 68678 ms
+Time for key agreement: 67364 ms
+Time for key agreement: 54693 ms
+Time for key agreement: 52912 ms
+Time for key agreement: 59608 ms
+Time for key agreement: 58989 ms
+Time for key agreement: 46453 ms
+Time for key agreement: 81280 ms
+Time for key agreement: 68163 ms
+Time for key agreement: 60218 ms
+Time for key agreement: 72162 ms
+Time for key agreement: 52744 ms
+Time for key agreement: 61041 ms
+Time for key agreement: 62429 ms
+Time for key agreement: 61203 ms
+Time for key agreement: 57479 ms
+Time for key agreement: 68348 ms
+Time for key agreement: 73670 ms
+Time for key agreement: 74040 ms
+Time for key agreement: 56794 ms
+Time for key agreement: 64330 ms
+Time for key agreement: 63935 ms
+Time for key agreement: 63002 ms
+Time for key agreement: 64706 ms
+Time for key agreement: 87815 ms
+Time for key agreement: 72235 ms
+Time for key agreement: 77460 ms
+Time for key agreement: 76445 ms
+Time for key agreement: 58488 ms
+Time for key agreement: 50384 ms
+Time for key agreement: 56668 ms
+Time for key agreement: 60285 ms
+Time for key agreement: 69520 ms
+Time for key agreement: 63930 ms
+Time for key agreement: 69457 ms
+Time for key agreement: 67412 ms
+Time for key agreement: 75737 ms
+Time for key agreement: 53305 ms
+Time for key agreement: 104466 ms
+Time for key agreement: 64085 ms
+Time for key agreement: 57170 ms
+Time for key agreement: 47199 ms
+Time for key agreement: 57398 ms
+Time for key agreement: 66437 ms
+Time for key agreement: 62869 ms
+Time for key agreement: 61550 ms
+Time for key agreement: 66447 ms
+Time for key agreement: 73989 ms
+Time for key agreement: 56765 ms
+Time for key agreement: 77198 ms
+Time for key agreement: 62667 ms
+Time for key agreement: 56847 ms
+Time for key agreement: 52623 ms
+Time for key agreement: 66296 ms
+Time for key agreement: 51964 ms
+Time for key agreement: 56885 ms
+Time for key agreement: 59536 ms
+Time for key agreement: 53308 ms
+Time for key agreement: 56970 ms
+Time for key agreement: 55257 ms
+Time for key agreement: 66024 ms
+Time for key agreement: 67198 ms
+Time for key agreement: 61462 ms
+Time for key agreement: 77313 ms
+Time for key agreement: 65278 ms
+Time for key agreement: 74309 ms
+Time for key agreement: 61986 ms
+Time for key agreement: 66978 ms
+Time for key agreement: 48386 ms
+Time for key agreement: 58436 ms
+Time for key agreement: 54414 ms
+Time for key agreement: 62863 ms
+Time for key agreement: 68727 ms
+Time for key agreement: 52560 ms
+Time for key agreement: 49663 ms
+Time for key agreement: 58717 ms
+Time for key agreement: 66976 ms
+Time for key agreement: 58469 ms
+Time for key agreement: 61328 ms
+Time for key agreement: 75970 ms
+Time for key agreement: 61287 ms
+Time for key agreement: 65039 ms
+Time for key agreement: 70084 ms
+Time for key agreement: 49161 ms
+Time for key agreement: 54039 ms
+Time for key agreement: 54108 ms
+Time for key agreement: 59514 ms
+Time for key agreement: 66214 ms
+Time for key agreement: 54514 ms
+Time for key agreement: 70743 ms
+Time for key agreement: 62546 ms
+Time for key agreement: 63166 ms
+Time for key agreement: 56336 ms
+Time for key agreement: 57846 ms
+Time for key agreement: 57360 ms
+Time for key agreement: 61784 ms
+Time for key agreement: 67623 ms
+Time for key agreement: 63011 ms
+Time for key agreement: 73111 ms
+Time for key agreement: 55330 ms
+Time for key agreement: 69438 ms
+Time for key agreement: 66296 ms
+Time for key agreement: 71709 ms
+Time for key agreement: 58658 ms
+Time for key agreement: 71347 ms
+Time for key agreement: 62973 ms
+Time for key agreement: 60703 ms
+Time for key agreement: 77861 ms
+Time for key agreement: 67167 ms
+Time for key agreement: 62247 ms
+Time for key agreement: 70457 ms
+Time for key agreement: 67401 ms
+Time for key agreement: 55255 ms
+Time for key agreement: 50095 ms
+Time for key agreement: 51319 ms
+Time for key agreement: 52364 ms
+Time for key agreement: 60270 ms
+Time for key agreement: 54408 ms
+Time for key agreement: 55751 ms
+Time for key agreement: 65266 ms
+Time for key agreement: 68026 ms
+Time for key agreement: 57874 ms
+Time for key agreement: 55716 ms
+Time for key agreement: 60835 ms
+Time for key agreement: 63715 ms
+Time for key agreement: 68143 ms
+Time for key agreement: 57894 ms
+Time for key agreement: 59862 ms
+Time for key agreement: 76276 ms
+Time for key agreement: 64161 ms
+Time for key agreement: 71143 ms
+Time for key agreement: 49042 ms
+Time for key agreement: 69611 ms
+Time for key agreement: 63601 ms
+Time for key agreement: 70288 ms
+Time for key agreement: 73813 ms
+Time for key agreement: 64816 ms
+Time for key agreement: 82761 ms
+Time for key agreement: 70885 ms
+Time for key agreement: 62918 ms
+Time for key agreement: 57583 ms
+Time for key agreement: 54232 ms
+Time for key agreement: 60196 ms
+Time for key agreement: 67791 ms
+Time for key agreement: 55231 ms
+Time for key agreement: 63799 ms
+Time for key agreement: 73524 ms
+Time for key agreement: 66024 ms
+Time for key agreement: 78915 ms
+Time for key agreement: 69652 ms
+Time for key agreement: 61151 ms
+Time for key agreement: 66204 ms
+Time for key agreement: 79770 ms
+Time for key agreement: 53534 ms
+Time for key agreement: 52881 ms
+Time for key agreement: 46916 ms
+Time for key agreement: 51650 ms
+Time for key agreement: 47248 ms
+Time for key agreement: 45938 ms
+Time for key agreement: 56702 ms
+Time for key agreement: 62685 ms
+Time for key agreement: 61518 ms
+Time for key agreement: 71839 ms
+Time for key agreement: 67496 ms
+Time for key agreement: 59394 ms
+Time for key agreement: 59863 ms
+Time for key agreement: 67048 ms
+Time for key agreement: 56481 ms
+Time for key agreement: 61577 ms
+Time for key agreement: 55136 ms
+Time for key agreement: 65073 ms
+Time for key agreement: 67783 ms
+Time for key agreement: 60756 ms
+Time for key agreement: 59536 ms
+Time for key agreement: 66639 ms
+Time for key agreement: 71972 ms
+Time for key agreement: 54910 ms
+Time for key agreement: 67772 ms
+Time for key agreement: 66031 ms
+Time for key agreement: 59244 ms
+Time for key agreement: 63564 ms
+Time for key agreement: 56539 ms
+Time for key agreement: 70652 ms
+Time for key agreement: 63173 ms
+Time for key agreement: 56683 ms
+Time for key agreement: 55721 ms
+Time for key agreement: 75924 ms
+Time for key agreement: 64965 ms
+Time for key agreement: 79228 ms
+Time for key agreement: 69515 ms
+Time for key agreement: 62103 ms
+Time for key agreement: 63878 ms
+Time for key agreement: 56135 ms
+Time for key agreement: 79656 ms
+Time for key agreement: 74960 ms
+Time for key agreement: 61334 ms
+Time for key agreement: 53339 ms
+Time for key agreement: 60773 ms
+Time for key agreement: 71502 ms
+Time for key agreement: 63615 ms
+Time for key agreement: 65809 ms
+Time for key agreement: 56348 ms
+Time for key agreement: 61592 ms
+Time for key agreement: 59579 ms
+Time for key agreement: 49917 ms
+Time for key agreement: 60109 ms
+Time for key agreement: 64286 ms
+Time for key agreement: 70257 ms
+Time for key agreement: 60000 ms
+Time for key agreement: 73708 ms
+Time for key agreement: 72534 ms
+Time for key agreement: 62135 ms
+Time for key agreement: 65969 ms
+Time for key agreement: 45624 ms
+Time for key agreement: 54908 ms
+Time for key agreement: 66212 ms
+Time for key agreement: 56379 ms
+Time for key agreement: 59399 ms
+Time for key agreement: 65376 ms
+Time for key agreement: 55410 ms
+Time for key agreement: 74598 ms
+Time for key agreement: 61159 ms
+Time for key agreement: 65588 ms
+Time for key agreement: 72931 ms
+Time for key agreement: 78284 ms
+Time for key agreement: 74203 ms
+Time for key agreement: 54588 ms
+Time for key agreement: 59283 ms
+Time for key agreement: 63552 ms
+Time for key agreement: 66594 ms
+Time for key agreement: 53767 ms
+Time for key agreement: 73160 ms
+Time for key agreement: 64595 ms
+Time for key agreement: 73681 ms
+Time for key agreement: 55714 ms
+Time for key agreement: 67849 ms
+Time for key agreement: 67671 ms
+Time for key agreement: 50755 ms
+Time for key agreement: 54303 ms
+Time for key agreement: 57507 ms
+Time for key agreement: 63882 ms
+Time for key agreement: 54253 ms
+Time for key agreement: 62988 ms
+Time for key agreement: 50938 ms
+Time for key agreement: 60763 ms
+Time for key agreement: 60238 ms
+Time for key agreement: 60769 ms
+Time for key agreement: 68081 ms
+Time for key agreement: 80090 ms
+Time for key agreement: 69033 ms
+Time for key agreement: 66918 ms
+Time for key agreement: 64051 ms
+Time for key agreement: 57894 ms
+Time for key agreement: 58429 ms
+Time for key agreement: 65253 ms
+Time for key agreement: 60923 ms
+Time for key agreement: 69332 ms
+Time for key agreement: 60357 ms
+Time for key agreement: 64330 ms
+Time for key agreement: 63924 ms
+Time for key agreement: 68818 ms
+Time for key agreement: 48522 ms
+Time for key agreement: 51396 ms
+Time for key agreement: 67680 ms
+Time for key agreement: 56877 ms
+Time for key agreement: 65942 ms
+Time for key agreement: 64693 ms
+Time for key agreement: 85153 ms
+Time for key agreement: 56890 ms
+Time for key agreement: 64321 ms
+Time for key agreement: 67235 ms
+Time for key agreement: 58137 ms
+Time for key agreement: 64593 ms
+Time for key agreement: 60836 ms
+Time for key agreement: 62880 ms
+Time for key agreement: 63355 ms
+Time for key agreement: 59571 ms
+Time for key agreement: 78907 ms
+Time for key agreement: 65716 ms
+Time for key agreement: 68811 ms
+Time for key agreement: 75513 ms
+Time for key agreement: 65974 ms
+Time for key agreement: 80227 ms
+Time for key agreement: 65316 ms
+Time for key agreement: 50703 ms
+Time for key agreement: 57349 ms
+Time for key agreement: 60002 ms
+Time for key agreement: 60355 ms
+Time for key agreement: 63068 ms
+Time for key agreement: 76541 ms
+Time for key agreement: 71082 ms
+Time for key agreement: 61751 ms
+Time for key agreement: 64761 ms
+Time for key agreement: 78005 ms
+Time for key agreement: 59251 ms
+Time for key agreement: 75815 ms
+Time for key agreement: 74951 ms
+Time for key agreement: 74562 ms
+Time for key agreement: 71751 ms
+Time for key agreement: 72554 ms
+Time for key agreement: 61257 ms
+Time for key agreement: 77508 ms
+Time for key agreement: 62360 ms
+Time for key agreement: 65868 ms
+Time for key agreement: 65722 ms
+Time for key agreement: 54718 ms
+Time for key agreement: 50624 ms
+Time for key agreement: 71683 ms
+Time for key agreement: 66971 ms
+Time for key agreement: 70760 ms
+Time for key agreement: 61988 ms
+Time for key agreement: 56562 ms
+Time for key agreement: 73327 ms
+Time for key agreement: 71120 ms
+Time for key agreement: 61023 ms
+Time for key agreement: 58859 ms
+Time for key agreement: 66193 ms
+Time for key agreement: 61149 ms
+Time for key agreement: 60222 ms
+Time for key agreement: 78084 ms
+Time for key agreement: 77411 ms
+Time for key agreement: 76563 ms
+Time for key agreement: 54424 ms
+Time for key agreement: 66466 ms
+Time for key agreement: 61232 ms
+Time for key agreement: 67495 ms
+Time for key agreement: 60413 ms
+Time for key agreement: 79250 ms
+Time for key agreement: 62805 ms
+Time for key agreement: 65672 ms
+Time for key agreement: 76143 ms
+Time for key agreement: 79480 ms
+Time for key agreement: 61484 ms
+Time for key agreement: 70164 ms
+Time for key agreement: 61229 ms
+Time for key agreement: 65840 ms
+Time for key agreement: 48361 ms
+Time for key agreement: 57493 ms
+Time for key agreement: 52871 ms
+Time for key agreement: 55728 ms
+Time for key agreement: 70326 ms
+Time for key agreement: 74867 ms
+Time for key agreement: 78146 ms
+Time for key agreement: 72239 ms
+Time for key agreement: 63801 ms
+Time for key agreement: 73555 ms
+Time for key agreement: 82931 ms
+Time for key agreement: 71311 ms
+Time for key agreement: 58424 ms
+Time for key agreement: 67347 ms
+Time for key agreement: 59147 ms
+Time for key agreement: 72184 ms
+Time for key agreement: 83237 ms
+Time for key agreement: 81012 ms
+Time for key agreement: 71430 ms
+Time for key agreement: 62268 ms
+Time for key agreement: 65902 ms
+Time for key agreement: 71456 ms
+Time for key agreement: 68619 ms
+Time for key agreement: 65148 ms
+Time for key agreement: 60869 ms
+Time for key agreement: 63789 ms
+Time for key agreement: 56563 ms
+Time for key agreement: 58692 ms
+Time for key agreement: 68808 ms
+Time for key agreement: 72458 ms
+Time for key agreement: 61938 ms
+Time for key agreement: 55742 ms
+Time for key agreement: 59331 ms
+Time for key agreement: 78768 ms
+Time for key agreement: 60293 ms
+Time for key agreement: 59490 ms
+Time for key agreement: 69061 ms
+Time for key agreement: 66031 ms
+Time for key agreement: 79476 ms
+Time for key agreement: 53803 ms
+Time for key agreement: 53330 ms
+Time for key agreement: 57120 ms
+Time for key agreement: 60523 ms
+Time for key agreement: 62711 ms
+Time for key agreement: 68713 ms
+Time for key agreement: 77249 ms
+Time for key agreement: 76533 ms
+Time for key agreement: 62450 ms
+Time for key agreement: 60250 ms
+Time for key agreement: 52401 ms
+Time for key agreement: 61388 ms
+Time for key agreement: 62194 ms
+Time for key agreement: 64432 ms
+Time for key agreement: 59286 ms
+Time for key agreement: 69303 ms
+Time for key agreement: 65081 ms
+Time for key agreement: 72013 ms
+Time for key agreement: 77302 ms
+Time for key agreement: 66522 ms
+Time for key agreement: 68899 ms
+Time for key agreement: 55076 ms
+Time for key agreement: 78126 ms
+Time for key agreement: 70764 ms
+Time for key agreement: 64395 ms
+Time for key agreement: 64433 ms
+Time for key agreement: 62536 ms
+Time for key agreement: 63917 ms
+Time for key agreement: 73168 ms
+Time for key agreement: 70106 ms
+Time for key agreement: 58846 ms
+Time for key agreement: 54834 ms
+Time for key agreement: 71603 ms
+Time for key agreement: 66565 ms
+Time for key agreement: 61560 ms
+Time for key agreement: 62672 ms
+Time for key agreement: 76871 ms
+Time for key agreement: 69194 ms
+Time for key agreement: 74350 ms
+Time for key agreement: 73018 ms
+Time for key agreement: 53000 ms
+Time for key agreement: 59402 ms
+Time for key agreement: 75672 ms
+Time for key agreement: 59102 ms
+Time for key agreement: 51824 ms
+Time for key agreement: 57747 ms
+Time for key agreement: 66250 ms
+Time for key agreement: 70897 ms
+Time for key agreement: 74172 ms
+Time for key agreement: 52313 ms
+Time for key agreement: 57319 ms
+Time for key agreement: 61281 ms
+Time for key agreement: 60391 ms
+Time for key agreement: 65248 ms
+Time for key agreement: 58150 ms
+Time for key agreement: 53614 ms
+Time for key agreement: 54646 ms
+Time for key agreement: 51714 ms
+Time for key agreement: 62092 ms
+Time for key agreement: 53357 ms
+Time for key agreement: 50515 ms
+Time for key agreement: 53565 ms
+Time for key agreement: 62277 ms
+Time for key agreement: 60726 ms
+Time for key agreement: 45812 ms
+Time for key agreement: 50338 ms
+Time for key agreement: 64248 ms
+Time for key agreement: 72106 ms
+Time for key agreement: 46916 ms
+Time for key agreement: 45470 ms
+Time for key agreement: 57182 ms
+Time for key agreement: 61945 ms
+Time for key agreement: 72117 ms
+Time for key agreement: 70575 ms
+Time for key agreement: 55563 ms
+Time for key agreement: 66971 ms
+Time for key agreement: 78707 ms
+Time for key agreement: 71246 ms
+Time for key agreement: 75005 ms
+Time for key agreement: 74931 ms
+Time for key agreement: 62512 ms
+Time for key agreement: 56935 ms
+Time for key agreement: 60275 ms
+Time for key agreement: 48443 ms
+Time for key agreement: 58937 ms
+Time for key agreement: 52113 ms
+Time for key agreement: 54678 ms
+Time for key agreement: 48003 ms
+Time for key agreement: 51503 ms
+Time for key agreement: 55943 ms
+Time for key agreement: 62953 ms
+Time for key agreement: 61323 ms
+Time for key agreement: 61258 ms
+Time for key agreement: 46822 ms
+Time for key agreement: 56113 ms
+Time for key agreement: 53454 ms
+Time for key agreement: 72893 ms
+Time for key agreement: 66909 ms
+Time for key agreement: 51284 ms
+Time for key agreement: 56632 ms
+Time for key agreement: 54449 ms
+Time for key agreement: 66704 ms
+Time for key agreement: 72430 ms
+Time for key agreement: 83374 ms
+Time for key agreement: 74416 ms
+Time for key agreement: 66222 ms
+Time for key agreement: 74058 ms
+Time for key agreement: 49340 ms
+Time for key agreement: 63538 ms
+Time for key agreement: 56163 ms
+Time for key agreement: 48441 ms
+Time for key agreement: 59112 ms
+Time for key agreement: 52231 ms
+Time for key agreement: 74815 ms
+Time for key agreement: 53824 ms
+Time for key agreement: 55367 ms
+Time for key agreement: 52849 ms
+Time for key agreement: 58434 ms
+Time for key agreement: 53082 ms
+Time for key agreement: 52034 ms
+Time for key agreement: 65294 ms
+Time for key agreement: 62455 ms
+Time for key agreement: 51170 ms
+Time for key agreement: 59972 ms
+Time for key agreement: 80780 ms
+Time for key agreement: 66063 ms
+Time for key agreement: 67548 ms
+Time for key agreement: 72600 ms
+Time for key agreement: 69555 ms
+Time for key agreement: 96487 ms
+Time for key agreement: 148140 ms
+Time for key agreement: 97867 ms
+Time for key agreement: 91267 ms
+Time for key agreement: 100873 ms
+Time for key agreement: 88825 ms
+Time for key agreement: 176236 ms
+Time for key agreement: 74955 ms
+Time for key agreement: 111509 ms
+Time for key agreement: 94735 ms
+Time for key agreement: 71812 ms
+Time for key agreement: 77264 ms
+Time for key agreement: 83437 ms
+Time for key agreement: 82325 ms
+Time for key agreement: 95198 ms
+Time for key agreement: 113809 ms
+Time for key agreement: 122208 ms
+Time for key agreement: 81151 ms
+Time for key agreement: 98348 ms
+Time for key agreement: 108792 ms
+Time for key agreement: 96435 ms
+Time for key agreement: 85377 ms
+Time for key agreement: 56425 ms
+Time for key agreement: 57756 ms
+Time for key agreement: 75878 ms
+Time for key agreement: 89461 ms
+Time for key agreement: 70859 ms
+Time for key agreement: 67907 ms
+Time for key agreement: 75112 ms
+Time for key agreement: 63840 ms
+Time for key agreement: 88831 ms
+Time for key agreement: 82983 ms
+Time for key agreement: 56965 ms
+Time for key agreement: 101485 ms
+Time for key agreement: 92543 ms
+Time for key agreement: 61205 ms
+Time for key agreement: 78312 ms
+Time for key agreement: 95757 ms
+Time for key agreement: 63172 ms
+Time for key agreement: 75493 ms
+Time for key agreement: 61509 ms
+Time for key agreement: 87261 ms
+Time for key agreement: 95997 ms
+Time for key agreement: 78910 ms
+Time for key agreement: 93467 ms
+Time for key agreement: 68415 ms
+Time for key agreement: 88626 ms
+Time for key agreement: 94259 ms
+Time for key agreement: 72597 ms
+Time for key agreement: 88671 ms
+Time for key agreement: 100047 ms
+Time for key agreement: 112216 ms
+Time for key agreement: 76375 ms
+Time for key agreement: 95439 ms
+Time for key agreement: 74454 ms
+Time for key agreement: 81251 ms
+Time for key agreement: 73763 ms
+Time for key agreement: 69732 ms
+Time for key agreement: 70720 ms
+Time for key agreement: 69518 ms
+Time for key agreement: 74094 ms
+Time for key agreement: 72590 ms
+Time for key agreement: 91521 ms
+Time for key agreement: 58173 ms
+Time for key agreement: 84003 ms
+Time for key agreement: 63610 ms
+Time for key agreement: 72114 ms
+Time for key agreement: 81959 ms
+Time for key agreement: 94530 ms
+Time for key agreement: 92525 ms
+Time for key agreement: 73567 ms
+Time for key agreement: 95875 ms
+Time for key agreement: 77285 ms
+Time for key agreement: 87591 ms
+Time for key agreement: 90979 ms
+Time for key agreement: 69370 ms
+Time for key agreement: 66622 ms
+Time for key agreement: 78263 ms
+Time for key agreement: 80588 ms
+Time for key agreement: 84984 ms
+Time for key agreement: 80429 ms
+Time for key agreement: 82244 ms
+Time for key agreement: 58880 ms
+Time for key agreement: 77757 ms
+Time for key agreement: 69047 ms
+Time for key agreement: 70131 ms
+Time for key agreement: 96693 ms
+Time for key agreement: 88613 ms
+Time for key agreement: 58608 ms
+Time for key agreement: 73713 ms
+Time for key agreement: 73781 ms
+Time for key agreement: 76302 ms
+Time for key agreement: 66855 ms
+Time for key agreement: 56839 ms
+Time for key agreement: 64656 ms
+Time for key agreement: 83397 ms
+Time for key agreement: 61127 ms
+Time for key agreement: 84222 ms
+Time for key agreement: 93490 ms
+Time for key agreement: 73867 ms
+Time for key agreement: 82253 ms
+Time for key agreement: 64036 ms
+Time for key agreement: 80463 ms
+Time for key agreement: 59825 ms
+Time for key agreement: 56355 ms
+Time for key agreement: 66752 ms
+Time for key agreement: 62406 ms
+Time for key agreement: 61540 ms
+Time for key agreement: 88430 ms
+Time for key agreement: 94148 ms
+Time for key agreement: 74430 ms
+Time for key agreement: 51145 ms
+Time for key agreement: 71626 ms
+Time for key agreement: 55437 ms
+Time for key agreement: 86753 ms
+Time for key agreement: 84113 ms
+Time for key agreement: 103701 ms
+Time for key agreement: 64320 ms
+Time for key agreement: 61472 ms
+Time for key agreement: 72900 ms
+Time for key agreement: 72528 ms
+Time for key agreement: 82313 ms
+Time for key agreement: 94547 ms
+Time for key agreement: 81214 ms
+Time for key agreement: 75737 ms
+Time for key agreement: 88131 ms
+Time for key agreement: 55719 ms
+Time for key agreement: 60591 ms
+Time for key agreement: 82020 ms
+Time for key agreement: 110005 ms
+Time for key agreement: 72779 ms
+Time for key agreement: 91717 ms
+Time for key agreement: 51173 ms
+Time for key agreement: 70206 ms
+Time for key agreement: 51165 ms
+Time for key agreement: 104984 ms
+Time for key agreement: 78756 ms
+Time for key agreement: 66630 ms
+Time for key agreement: 97085 ms
+Time for key agreement: 75178 ms
+Time for key agreement: 58609 ms
+Time for key agreement: 91900 ms
+Time for key agreement: 61956 ms
+Time for key agreement: 111300 ms
+Time for key agreement: 92947 ms
+Time for key agreement: 72043 ms
+Time for key agreement: 88132 ms
+Time for key agreement: 79745 ms
+Time for key agreement: 71752 ms
+Time for key agreement: 59905 ms
+Time for key agreement: 63596 ms
+Time for key agreement: 78052 ms
+Time for key agreement: 73778 ms
+Time for key agreement: 73594 ms
+Time for key agreement: 84172 ms
+Time for key agreement: 75517 ms
+Time for key agreement: 66319 ms
+Time for key agreement: 94954 ms
+Time for key agreement: 77206 ms
+Time for key agreement: 102944 ms
+Time for key agreement: 89475 ms
+Time for key agreement: 66119 ms
+Time for key agreement: 99058 ms
+Time for key agreement: 103892 ms
+Time for key agreement: 64096 ms
+Time for key agreement: 114145 ms
+Time for key agreement: 81401 ms
+Time for key agreement: 62487 ms
+Time for key agreement: 61219 ms
+Time for key agreement: 81845 ms
+Time for key agreement: 77645 ms
+Time for key agreement: 69969 ms
+Time for key agreement: 73218 ms
+Time for key agreement: 81977 ms
+Time for key agreement: 69785 ms
+Time for key agreement: 96621 ms
+Time for key agreement: 75655 ms
+Time for key agreement: 86138 ms
+Time for key agreement: 81220 ms
+Time for key agreement: 68943 ms
+Time for key agreement: 63813 ms
+Time for key agreement: 66060 ms
+Time for key agreement: 80636 ms
+Time for key agreement: 69112 ms
+Time for key agreement: 79120 ms
+Time for key agreement: 62205 ms
+Time for key agreement: 69252 ms
+Time for key agreement: 76237 ms
+Time for key agreement: 92495 ms
+Time for key agreement: 71723 ms
+Time for key agreement: 76944 ms
+Time for key agreement: 72967 ms
+Time for key agreement: 71372 ms
+Time for key agreement: 73253 ms
+Time for key agreement: 98771 ms
+Time for key agreement: 102661 ms
+Time for key agreement: 101052 ms
+Time for key agreement: 96174 ms
+Time for key agreement: 78388 ms
+Time for key agreement: 90263 ms
+Time for key agreement: 67865 ms
+Time for key agreement: 67424 ms
+Time for key agreement: 83725 ms
+Time for key agreement: 71820 ms
+Time for key agreement: 118064 ms
+Time for key agreement: 69983 ms
+Time for key agreement: 70116 ms
+Time for key agreement: 86095 ms
+Time for key agreement: 60757 ms
+Time for key agreement: 65751 ms
+Time for key agreement: 73471 ms
+Time for key agreement: 57083 ms
+Time for key agreement: 67644 ms
+Time for key agreement: 70917 ms
+Time for key agreement: 70183 ms
+Time for key agreement: 69505 ms
+Time for key agreement: 73322 ms
+Time for key agreement: 76536 ms
+Time for key agreement: 72704 ms
+Time for key agreement: 92129 ms
+Time for key agreement: 82442 ms
+Time for key agreement: 70784 ms
+Time for key agreement: 71180 ms
+Time for key agreement: 87364 ms
+Time for key agreement: 81022 ms
+Time for key agreement: 65887 ms
+Time for key agreement: 82369 ms
+Time for key agreement: 102661 ms
+Time for key agreement: 78655 ms
+Time for key agreement: 75858 ms
+Time for key agreement: 75148 ms
+Time for key agreement: 69563 ms
+Time for key agreement: 84409 ms
+Time for key agreement: 65397 ms
+Time for key agreement: 80827 ms
+Time for key agreement: 71876 ms
+Time for key agreement: 77938 ms
+Time for key agreement: 110409 ms
+Time for key agreement: 122913 ms
+Time for key agreement: 99639 ms
+Time for key agreement: 83999 ms
+Time for key agreement: 66635 ms
+Time for key agreement: 68464 ms
+Time for key agreement: 107828 ms
+Time for key agreement: 95643 ms
+Time for key agreement: 78679 ms
+Time for key agreement: 86681 ms
+Time for key agreement: 63383 ms
+Time for key agreement: 122908 ms
+Time for key agreement: 60838 ms
+Time for key agreement: 55854 ms
+Time for key agreement: 65374 ms
+Time for key agreement: 79178 ms
+Time for key agreement: 65366 ms
+Time for key agreement: 66710 ms
+Time for key agreement: 73265 ms
+Time for key agreement: 76133 ms
+Time for key agreement: 66625 ms
+Time for key agreement: 55568 ms
+Time for key agreement: 63767 ms
+Time for key agreement: 116179 ms
+Time for key agreement: 96702 ms
+Time for key agreement: 72277 ms
+Time for key agreement: 89656 ms
+Time for key agreement: 78160 ms
+Time for key agreement: 89292 ms
+Time for key agreement: 78916 ms
+Time for key agreement: 58466 ms
+Time for key agreement: 84672 ms
+Time for key agreement: 80310 ms
+Time for key agreement: 60358 ms
+Time for key agreement: 57365 ms
+Time for key agreement: 58900 ms
+Time for key agreement: 71964 ms
+Time for key agreement: 101130 ms
+Time for key agreement: 88654 ms
+Time for key agreement: 74669 ms
+Time for key agreement: 65327 ms
+Time for key agreement: 71350 ms
+Time for key agreement: 89857 ms
+Time for key agreement: 86763 ms
+Time for key agreement: 75129 ms
+Time for key agreement: 85590 ms
+Time for key agreement: 66234 ms
+Time for key agreement: 83195 ms
+Time for key agreement: 70852 ms
+Time for key agreement: 60114 ms
+Time for key agreement: 73283 ms
+Time for key agreement: 75380 ms
+Time for key agreement: 67338 ms
+Time for key agreement: 105104 ms
+Time for key agreement: 77597 ms
+Time for key agreement: 101939 ms
+Time for key agreement: 71666 ms
+Time for key agreement: 93010 ms
+Time for key agreement: 79446 ms
+Time for key agreement: 66162 ms
+Time for key agreement: 62169 ms
+Time for key agreement: 66528 ms
+Time for key agreement: 64192 ms
+Time for key agreement: 65569 ms
+Time for key agreement: 83176 ms
+Time for key agreement: 88867 ms
+Time for key agreement: 71533 ms
+Time for key agreement: 73652 ms
+Time for key agreement: 79959 ms
+Time for key agreement: 89751 ms
+Time for key agreement: 65982 ms
+Time for key agreement: 84320 ms
+Time for key agreement: 66780 ms
+Time for key agreement: 57009 ms
+Time for key agreement: 62248 ms
+Time for key agreement: 73006 ms
+Time for key agreement: 72191 ms
+Time for key agreement: 87834 ms
+Time for key agreement: 79461 ms
+Time for key agreement: 80762 ms
+Time for key agreement: 76827 ms
+Time for key agreement: 67127 ms
+Time for key agreement: 79338 ms
+Time for key agreement: 98175 ms
+Time for key agreement: 69382 ms
+Time for key agreement: 65167 ms
+Time for key agreement: 75904 ms
+Time for key agreement: 68510 ms
+Time for key agreement: 83004 ms
+Time for key agreement: 85082 ms
+Time for key agreement: 82244 ms
+Time for key agreement: 93379 ms
+Time for key agreement: 70529 ms
+Time for key agreement: 48137 ms
+Time for key agreement: 82997 ms
+Time for key agreement: 77199 ms
+Time for key agreement: 79010 ms
+Time for key agreement: 70323 ms
+Time for key agreement: 86488 ms
+Time for key agreement: 95432 ms
+Time for key agreement: 114349 ms
+Time for key agreement: 147385 ms
+Time for key agreement: 69513 ms
+Time for key agreement: 79423 ms
+Time for key agreement: 58256 ms
+Time for key agreement: 61425 ms
+Time for key agreement: 77632 ms
+Time for key agreement: 59343 ms
+Time for key agreement: 82501 ms
+Time for key agreement: 62580 ms
+Time for key agreement: 87395 ms
+Time for key agreement: 52804 ms
+Time for key agreement: 75606 ms
+Time for key agreement: 65918 ms
+Time for key agreement: 62605 ms
+Time for key agreement: 64952 ms
+Time for key agreement: 60595 ms
+Time for key agreement: 67258 ms
+Time for key agreement: 75034 ms
+Time for key agreement: 57797 ms
+Time for key agreement: 52314 ms
+Time for key agreement: 81988 ms
+Time for key agreement: 85049 ms
+Time for key agreement: 98070 ms
+Time for key agreement: 80311 ms
+Time for key agreement: 57140 ms
+Time for key agreement: 92872 ms
+Time for key agreement: 94608 ms
+Time for key agreement: 68217 ms
+Time for key agreement: 69685 ms
+Time for key agreement: 56116 ms
+Time for key agreement: 67834 ms
+Time for key agreement: 75639 ms
+Time for key agreement: 80467 ms
+Time for key agreement: 99104 ms
+Time for key agreement: 66459 ms
+Time for key agreement: 78271 ms
+Time for key agreement: 66162 ms
+Time for key agreement: 76523 ms
+Time for key agreement: 70779 ms
+Time for key agreement: 60554 ms
+Time for key agreement: 59796 ms
+Time for key agreement: 93223 ms
+Time for key agreement: 65511 ms
+Time for key agreement: 80816 ms
+Time for key agreement: 79711 ms
+Time for key agreement: 69120 ms
+Time for key agreement: 59844 ms
+Time for key agreement: 79866 ms
+Time for key agreement: 73165 ms
+Time for key agreement: 61039 ms
+Time for key agreement: 74185 ms
+Time for key agreement: 61045 ms
+Time for key agreement: 57437 ms
+Time for key agreement: 63654 ms
+Time for key agreement: 65143 ms
+Time for key agreement: 60405 ms
+Time for key agreement: 71697 ms
+Time for key agreement: 64621 ms
+Time for key agreement: 69608 ms
+Time for key agreement: 66866 ms
+Time for key agreement: 96923 ms
+Time for key agreement: 54467 ms
+Time for key agreement: 69413 ms
+Time for key agreement: 87606 ms
+Time for key agreement: 72227 ms
+Time for key agreement: 80575 ms
+Time for key agreement: 80001 ms
+Time for key agreement: 56373 ms
+Time for key agreement: 86427 ms
+Time for key agreement: 61877 ms
+Time for key agreement: 96707 ms
+Time for key agreement: 97124 ms
+Time for key agreement: 83559 ms
+Time for key agreement: 75721 ms
+Time for key agreement: 63341 ms
+Time for key agreement: 70125 ms
+Time for key agreement: 67756 ms
+Time for key agreement: 61711 ms
+Time for key agreement: 83491 ms
+Time for key agreement: 78999 ms
+Time for key agreement: 72912 ms
+Time for key agreement: 64935 ms
+Time for key agreement: 69767 ms
+Time for key agreement: 87016 ms
+Time for key agreement: 108193 ms
+Time for key agreement: 82698 ms
+Time for key agreement: 61926 ms
+Time for key agreement: 72860 ms
+Time for key agreement: 61001 ms
+Time for key agreement: 65376 ms
+Time for key agreement: 58630 ms
+Time for key agreement: 68659 ms
+Time for key agreement: 56403 ms
+Time for key agreement: 114865 ms
+Time for key agreement: 105499 ms
+Time for key agreement: 137332 ms
+Time for key agreement: 137503 ms
+Time for key agreement: 90363 ms
+Time for key agreement: 93880 ms
+Time for key agreement: 96993 ms
+Time for key agreement: 89409 ms
+Time for key agreement: 59319 ms
+Time for key agreement: 66982 ms
+Time for key agreement: 64629 ms
+Time for key agreement: 93734 ms
+Time for key agreement: 91928 ms
+Time for key agreement: 63671 ms
+Time for key agreement: 82221 ms
+Time for key agreement: 62154 ms
+Time for key agreement: 68972 ms
+Time for key agreement: 65859 ms
+Time for key agreement: 62396 ms
+Time for key agreement: 62548 ms
+Time for key agreement: 57712 ms
+Time for key agreement: 89820 ms
+Time for key agreement: 76991 ms
+Time for key agreement: 106005 ms
+Time for key agreement: 69825 ms
+Time for key agreement: 124247 ms
+Time for key agreement: 73220 ms
+Time for key agreement: 57597 ms
+Time for key agreement: 83392 ms
+Time for key agreement: 110656 ms
+Time for key agreement: 63602 ms
+Time for key agreement: 72561 ms
+Time for key agreement: 75322 ms
+Time for key agreement: 51916 ms
+Time for key agreement: 63231 ms
+Time for key agreement: 69776 ms
+Time for key agreement: 104138 ms
+Time for key agreement: 45964 ms
+Time for key agreement: 54994 ms
+Time for key agreement: 113277 ms
+Time for key agreement: 86091 ms
+Time for key agreement: 77965 ms
+Time for key agreement: 51047 ms
+Time for key agreement: 66908 ms
+Time for key agreement: 54673 ms
+Time for key agreement: 70999 ms
+Time for key agreement: 86180 ms
+Time for key agreement: 87016 ms
+Time for key agreement: 63156 ms
+Time for key agreement: 69465 ms
+Time for key agreement: 77170 ms
+Time for key agreement: 58731 ms
+Time for key agreement: 84953 ms
+Time for key agreement: 77533 ms
+Time for key agreement: 81644 ms
+Time for key agreement: 70489 ms
+Time for key agreement: 77640 ms
+Time for key agreement: 61700 ms
+Time for key agreement: 66896 ms
+Time for key agreement: 71269 ms
+Time for key agreement: 77118 ms
+Time for key agreement: 81782 ms
+Time for key agreement: 77397 ms
+Time for key agreement: 68254 ms
+Time for key agreement: 64437 ms
+Time for key agreement: 68607 ms
+Time for key agreement: 59479 ms
+Time for key agreement: 57309 ms
+Time for key agreement: 69035 ms
+Time for key agreement: 89277 ms
+Time for key agreement: 69676 ms
+Time for key agreement: 67775 ms
+Time for key agreement: 80135 ms
+Time for key agreement: 57920 ms
+Time for key agreement: 61548 ms
+Time for key agreement: 60259 ms
+Time for key agreement: 66200 ms
+Time for key agreement: 95316 ms
+Time for key agreement: 109446 ms
+Time for key agreement: 76385 ms
+Time for key agreement: 61341 ms
+Time for key agreement: 69394 ms
+Time for key agreement: 64323 ms
+Time for key agreement: 51873 ms
+Time for key agreement: 75454 ms
+Time for key agreement: 60947 ms
+Time for key agreement: 51001 ms
+Time for key agreement: 63626 ms
+Time for key agreement: 57746 ms
+Time for key agreement: 60878 ms
+Time for key agreement: 61874 ms
+Time for key agreement: 75192 ms
+Time for key agreement: 102013 ms
+Time for key agreement: 78185 ms
+Time for key agreement: 59083 ms
+Time for key agreement: 98016 ms
+Time for key agreement: 114789 ms
+Time for key agreement: 67144 ms
+Time for key agreement: 52864 ms
+Time for key agreement: 65663 ms
+Time for key agreement: 57189 ms
+Time for key agreement: 66559 ms
+Time for key agreement: 63488 ms
+Time for key agreement: 62639 ms
+Time for key agreement: 75083 ms
+Time for key agreement: 61269 ms
+Time for key agreement: 57771 ms
+Time for key agreement: 81055 ms
+Time for key agreement: 57751 ms
+Time for key agreement: 68539 ms
+Time for key agreement: 63744 ms
+Time for key agreement: 72377 ms
+Time for key agreement: 74551 ms
+Time for key agreement: 89438 ms
+Time for key agreement: 62069 ms
+Time for key agreement: 54479 ms
+Time for key agreement: 60449 ms
+Time for key agreement: 71852 ms
+Time for key agreement: 68934 ms
+Time for key agreement: 58081 ms
+Time for key agreement: 54396 ms
+Time for key agreement: 62919 ms
+Time for key agreement: 71967 ms
+Time for key agreement: 98722 ms
+Time for key agreement: 54520 ms
+Time for key agreement: 81876 ms
+Time for key agreement: 79247 ms
+Time for key agreement: 97505 ms
+Time for key agreement: 86131 ms
+Time for key agreement: 78486 ms
+Time for key agreement: 70567 ms
+Time for key agreement: 59199 ms
+Time for key agreement: 53401 ms
+Time for key agreement: 62044 ms
+Time for key agreement: 69337 ms
+Time for key agreement: 62204 ms
+Time for key agreement: 72011 ms
+Time for key agreement: 65570 ms
+Time for key agreement: 53353 ms
+Time for key agreement: 64966 ms
+Time for key agreement: 83086 ms
+Time for key agreement: 68689 ms
+Time for key agreement: 72948 ms
+Time for key agreement: 60334 ms
+Time for key agreement: 50153 ms
+Time for key agreement: 74247 ms
+Time for key agreement: 52565 ms
+Times performed: 2582 
+*****************************
